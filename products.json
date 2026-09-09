@@ -7,7 +7,7 @@
   "color": "#2b7fbf",
   "count": 52,
   "recent": 22,
-  "heat": 1283.7,
+  "heat": 1283.3,
   "momentum": -0.143,
   "series": [
    0,
@@ -103,7 +103,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 63.5,
+    "heat": 63.4,
     "summary": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct too"
    }
   ],
@@ -117,7 +117,7 @@
   "color": "#7a5cf0",
   "count": 21,
   "recent": 11,
-  "heat": 934.6,
+  "heat": 934.0,
   "momentum": 1.5,
   "series": [
    0,
@@ -204,7 +204,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 60.3,
+    "heat": 60.2,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    },
    {
@@ -227,7 +227,7 @@
   "color": "#7a5cf0",
   "count": 45,
   "recent": 12,
-  "heat": 820.9,
+  "heat": 820.6,
   "momentum": 0.0,
   "series": [
    0,
@@ -304,7 +304,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 74.5,
+    "heat": 74.4,
     "summary": "Autonomous text-to-game pipeline for Godot, powered by Claude Code,Codex,Opencode · ai-age"
    },
    {
@@ -336,7 +336,7 @@
   "color": "#2b7fbf",
   "count": 51,
   "recent": 30,
-  "heat": 806.1,
+  "heat": 805.9,
   "momentum": -0.857,
   "series": [
    1,
@@ -394,7 +394,7 @@
     "source": "GamesBeat",
     "source_type": "news",
     "date": "2026-09-02",
-    "heat": 48.1,
+    "heat": 48.0,
     "summary": "How Dream Racers uses Roblox’s Cube AI to generate playable vehicles in real time | exclus"
    },
    {
@@ -403,7 +403,7 @@
     "source": "Massively Overpowered",
     "source_type": "news",
     "date": "2026-08-29",
-    "heat": 42.0,
+    "heat": 41.9,
     "summary": "Roblox clamps down on gen-AI brainrot scrolling games after Steal an Egg goes viral Massiv"
    },
    {
@@ -444,7 +444,7 @@
   "color": "#7a5cf0",
   "count": 15,
   "recent": 8,
-  "heat": 510.0,
+  "heat": 509.9,
   "momentum": 1.5,
   "series": [
    0,
@@ -552,7 +552,7 @@
   "color": "#7a5cf0",
   "count": 11,
   "recent": 6,
-  "heat": 393.0,
+  "heat": 392.9,
   "momentum": 1.5,
   "series": [
    0,
@@ -600,7 +600,7 @@
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Unity**、**MCP**、**GPT**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到就在 1 天前，是当下正在发生的话题。"
+    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Unity**、**MCP**、**GPT**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到就在 2 天前，是当下正在发生的话题。"
    ]
   ],
   "items": [
@@ -646,7 +646,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 60.3,
+    "heat": 60.2,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    }
   ],
@@ -660,7 +660,7 @@
   "color": "#7a5cf0",
   "count": 7,
   "recent": 5,
-  "heat": 330.3,
+  "heat": 330.2,
   "momentum": 1.5,
   "series": [
    0,
@@ -708,7 +708,7 @@
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Unity**、**MCP**、**Cursor**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到就在 1 天前，是当下正在发生的话题。"
+    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Unity**、**MCP**、**Cursor**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到就在 2 天前，是当下正在发生的话题。"
    ]
   ],
   "items": [
@@ -745,7 +745,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 60.3,
+    "heat": 60.2,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    },
    {
@@ -768,7 +768,7 @@
   "color": "#7a5cf0",
   "count": 6,
   "recent": 5,
-  "heat": 310.8,
+  "heat": 310.7,
   "momentum": 1.5,
   "series": [
    0,
@@ -835,7 +835,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 60.3,
+    "heat": 60.2,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    },
    {
@@ -876,7 +876,7 @@
   "color": "#2b7fbf",
   "count": 23,
   "recent": 4,
-  "heat": 294.8,
+  "heat": 294.4,
   "momentum": 1.0,
   "series": [
    0,
@@ -936,7 +936,7 @@
     "source": "36Kr",
     "source_type": "news",
     "date": "2026-09-07",
-    "heat": 72.4,
+    "heat": 72.3,
     "summary": "虚幻引擎CEO围观最新世界模型：代码驱动，视频模型生成画面 36 Kr"
    },
    {
@@ -945,7 +945,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 63.5,
+    "heat": 63.4,
     "summary": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct too"
    },
    {
@@ -954,7 +954,7 @@
     "source": "NoobFeed",
     "source_type": "news",
     "date": "2026-09-07",
-    "heat": 57.3,
+    "heat": 57.2,
     "summary": "Rocksteady’s New Batman Game is Expanding With Advanced AI, Melee Combat, and Unreal Engin"
    },
    {
@@ -976,7 +976,7 @@
     "summary": "I built OpenClaw plugins for the three major game engines. The AI agent controls the edito"
    }
   ],
-  "heat_index": 23.0
+  "heat_index": 22.9
  },
  {
   "name": "Gemini",
@@ -986,7 +986,7 @@
   "color": "#7a5cf0",
   "count": 9,
   "recent": 4,
-  "heat": 289.4,
+  "heat": 289.3,
   "momentum": 1.5,
   "series": [
    0,
@@ -1072,7 +1072,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 60.3,
+    "heat": 60.2,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    },
    {
@@ -1095,7 +1095,7 @@
   "color": "#d4483b",
   "count": 30,
   "recent": 7,
-  "heat": 250.6,
+  "heat": 250.5,
   "momentum": 0.2,
   "series": [
    0,
@@ -1152,7 +1152,7 @@
     "source": "CryptoRank",
     "source_type": "news",
     "date": "2026-09-07",
-    "heat": 63.0,
+    "heat": 62.9,
     "summary": "腾讯 IEG 重组 AI 游戏部门，目标探索 AI 原生游戏 CryptoRank"
    },
    {
@@ -1202,7 +1202,7 @@
   "color": "#2b7fbf",
   "count": 16,
   "recent": 4,
-  "heat": 238.9,
+  "heat": 238.7,
   "momentum": 1.0,
   "series": [
    0,
@@ -1262,7 +1262,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 74.5,
+    "heat": 74.4,
     "summary": "Autonomous text-to-game pipeline for Godot, powered by Claude Code,Codex,Opencode · ai-age"
    },
    {
@@ -1271,7 +1271,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 63.5,
+    "heat": 63.4,
     "summary": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct too"
    },
    {
@@ -1419,7 +1419,7 @@
   "color": "#d4483b",
   "count": 17,
   "recent": 5,
-  "heat": 142.7,
+  "heat": 142.5,
   "momentum": -1.0,
   "series": [
    2,
@@ -1477,7 +1477,7 @@
     "source": "arXiv",
     "source_type": "paper",
     "date": "2026-08-12",
-    "heat": 29.3,
+    "heat": 29.2,
     "summary": "The rapid adoption of generative AI in game development has created large discussions amon"
    },
    {
@@ -1527,7 +1527,7 @@
   "color": "#e0862a",
   "count": 3,
   "recent": 1,
-  "heat": 58.0,
+  "heat": 57.9,
   "momentum": 0.0,
   "series": [
    0,
@@ -1585,7 +1585,7 @@
     "source": "TipRanks",
     "source_type": "news",
     "date": "2026-09-07",
-    "heat": 58.0,
+    "heat": 57.9,
     "summary": "Tripo AI Positions Platform for AI-Generated 3D Content Across Games and 3D Printing TipRa"
    },
    {
@@ -1726,7 +1726,7 @@
   "color": "#c94f7c",
   "count": 3,
   "recent": 1,
-  "heat": 51.6,
+  "heat": 51.5,
   "momentum": 1.5,
   "series": [
    0,
@@ -1780,7 +1780,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 51.6,
+    "heat": 51.5,
     "summary": "Self-hosted AI Dungeon Master - run extended TTRPG campaigns with smart memory, living NPC"
    },
    {
