@@ -5,10 +5,20 @@
   // GitHub Pages 版：数据与页面分离（dist/ 本地版才是内嵌数据）
   var D = await (await fetch('meta.json')).json();
   D.products = await (await fetch('products.json')).json();
+  try { window.__CAMPUS__ = await (await fetch('campus.json')).json(); } catch (e) { window.__CAMPUS__ = null; }
   var _parts = await Promise.all(['data-1.jsonl','data-2.jsonl','data-3.jsonl','data-4.jsonl','data-5.jsonl'].map(function (u) { return fetch(u).then(function (r) { return r.text(); }); }));
   D.items = _parts.join('').split('\n')
     .filter(function (s) { return s.trim(); })
     .map(function (s) { return JSON.parse(s); });
+  var CAMPUS = null;
+  try {
+    var _cp = document.getElementById('payload-campus');
+    if (_cp && _cp.textContent.trim() && _cp.textContent.trim() !== '{}') {
+      CAMPUS = JSON.parse(_cp.textContent);
+    } else if (window.__CAMPUS__) {
+      CAMPUS = window.__CAMPUS__;
+    }
+  } catch (e) { CAMPUS = null; }
   var TRACKS = {};
   D.tracks.forEach(function (t) { TRACKS[t.key] = t; });
 
@@ -724,6 +734,148 @@
     } else if (kind === 'q') { F.q = ''; qEl.value = ''; }
     shown = PAGE; syncPills(); render();
   });
+
+  /* ---------------------------------------------------------- 板块切换 */
+  function switchBoard(name) {
+    Array.prototype.forEach.call(document.querySelectorAll('.nav-tab'), function (t) {
+      t.classList.toggle('on', t.dataset.board === name);
+    });
+    document.getElementById('board-radar').hidden = (name !== 'radar');
+    document.getElementById('board-campus').hidden = (name !== 'campus');
+    if (name === 'campus') renderCampusOnce();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+  Array.prototype.forEach.call(document.querySelectorAll('.nav-tab'), function (t) {
+    t.addEventListener('click', function () { switchBoard(t.dataset.board); });
+  });
+
+  /* ---------------------------------------------------------- 高校赛事板块 */
+  var CF = { types: [], status: '', brand: '', q: '' };
+  var C_SHOWN = 24, cRendered = false;
+
+  function renderCampusOnce() {
+    if (cRendered) return;
+    cRendered = true;
+    if (!CAMPUS || !CAMPUS.events) {
+      document.getElementById('cFeed').innerHTML =
+        '<div class="empty">本板块暂无数据，下次更新后会出现。</div>';
+      return;
+    }
+    var s = CAMPUS.stats || {};
+    var kpis = [
+      { n: s.total || 0, l: '收录赛事', s: '近 30 天 ' + (s.d30 || 0) + ' 场' },
+      { n: s.signup || 0, l: '正在报名', s: '想参赛优先看这部分' },
+      { n: s.ongoing || 0, l: '进行中', s: '已开赛未收官' },
+      { n: s.brands || 0, l: '涉及品牌方', s: '可核实的署名主办' },
+      { n: s.schools || 0, l: '覆盖高校', s: '被点名的学校数' },
+    ];
+    document.getElementById('cKpis').innerHTML = kpis.map(function (k) {
+      return '<div class="kpi"><div class="n">' + esc(k.n) + '</div>'
+        + '<div class="l">' + esc(k.l) + '</div>'
+        + '<div class="s">' + esc(k.s) + '</div></div>';
+    }).join('');
+
+    document.getElementById('cSummary').innerHTML = (CAMPUS.summary || []).map(function (p) {
+      return '<div class="s-block"><div class="s-tag">' + esc(p[0]) + '</div>'
+        + '<div class="s-txt">' + md(p[1]) + '</div></div>';
+    }).join('');
+
+    document.getElementById('cTypePills').innerHTML = (CAMPUS.types || []).map(function (t) {
+      return '<span class="pill" data-k="' + t.key + '"><i class="sw" style="background:'
+        + t.color + '"></i>' + esc(t.zh) + '<span class="c">' + t.count + '</span></span>';
+    }).join('');
+    document.getElementById('cTypePills').addEventListener('click', function (e) {
+      var p = e.target.closest('.pill'); if (!p) return;
+      var k = p.dataset.k, i = CF.types.indexOf(k);
+      if (i >= 0) CF.types.splice(i, 1); else CF.types.push(k);
+      C_SHOWN = 24; syncCampusPills(); renderCampus();
+    });
+    var brandSel = document.getElementById('cBrand');
+    (CAMPUS.brands || []).forEach(function (b) {
+      var o = document.createElement('option');
+      o.value = b.name; o.textContent = b.name + '（' + b.count + '）';
+      brandSel.appendChild(o);
+    });
+    brandSel.addEventListener('change', function () {
+      CF.brand = this.value; C_SHOWN = 24; renderCampus();
+    });
+    document.getElementById('cStatus').addEventListener('change', function () {
+      CF.status = this.value; C_SHOWN = 24; renderCampus();
+    });
+    var cq = document.getElementById('cQ'), ctmr;
+    cq.addEventListener('input', function () {
+      clearTimeout(ctmr);
+      ctmr = setTimeout(function () {
+        CF.q = cq.value.trim().toLowerCase(); C_SHOWN = 24; renderCampus();
+      }, 180);
+    });
+    document.getElementById('cMore').addEventListener('click', function () {
+      C_SHOWN += 24; renderCampus();
+    });
+    syncCampusPills();
+    renderCampus();
+  }
+
+  function syncCampusPills() {
+    Array.prototype.forEach.call(document.querySelectorAll('#cTypePills .pill'), function (p) {
+      var on = CF.types.indexOf(p.dataset.k) >= 0;
+      p.classList.toggle('on', on);
+      if (on) {
+        var t = (CAMPUS.types || []).find(function (x) { return x.key === p.dataset.k; });
+        p.style.background = t ? t.color : '';
+      } else { p.style.background = ''; }
+    });
+  }
+
+  function campusFiltered() {
+    return CAMPUS.events.filter(function (e) {
+      if (CF.types.length && CF.types.indexOf(e.type) < 0) return false;
+      if (CF.status && e.status !== CF.status) return false;
+      if (CF.brand && e.brands.indexOf(CF.brand) < 0) return false;
+      if (CF.q) {
+        var hay = (e.title + ' ' + (e.summary || '') + ' ' + e.brands.join(' ')
+          + ' ' + e.schools.join(' ') + ' ' + e.source).toLowerCase();
+        if (hay.indexOf(CF.q) < 0) return false;
+      }
+      return true;
+    });
+  }
+
+  function evCard(e) {
+    var chips = '';
+    e.brands.forEach(function (b) {
+      chips += '<span class="ev-brand">' + esc(b) + '</span>';
+    });
+    e.schools.forEach(function (s) {
+      chips += '<span class="ev-school">' + esc(s) + '</span>';
+    });
+    return '<article class="ev" style="--ec:' + e.status_color + '">'
+      + '<div class="ev-top">'
+      + '<span class="ev-status" style="color:' + e.status_color + ';background:'
+      + alpha(e.status_color, .13) + '">' + esc(e.status) + '</span>'
+      + '<span class="ev-type" style="color:' + e.type_color + ';background:'
+      + alpha(e.type_color, .12) + '">' + esc(e.type_zh) + '</span>'
+      + '</div>'
+      + '<a class="ev-t" href="' + esc(e.url) + '" target="_blank" rel="noopener">'
+      + esc(e.title) + '</a>'
+      + (chips ? '<div class="ev-chips">' + chips + '</div>' : '')
+      + '<div class="ev-meta"><span>' + esc(e.source) + '</span><span>' + esc(e.date) + '</span>'
+      + (e.deadline ? '<span class="ev-dl">⏰ ' + esc(e.deadline) + '</span>' : '')
+      + (e.days_ago <= 2 ? '<span style="color:var(--hot)">· 最新</span>' : '')
+      + '</div>'
+      + (e.summary ? '<div class="ev-sum">' + esc(e.summary) + '</div>' : '')
+      + '</article>';
+  }
+
+  function renderCampus() {
+    var list = campusFiltered();
+    document.getElementById('cFeed').innerHTML = list.length
+      ? list.slice(0, C_SHOWN).map(evCard).join('')
+      : '<div class="empty">没有符合条件的赛事，试着放宽筛选。</div>';
+    document.getElementById('cMore').hidden = list.length <= C_SHOWN;
+    document.getElementById('cCount').textContent =
+      '命中 ' + list.length + ' 场' + (list.length > C_SHOWN ? '，已显示 ' + C_SHOWN : '');
+  }
 
   /* ---------------------------------------------------------- 启动 */
   drawRadar();
