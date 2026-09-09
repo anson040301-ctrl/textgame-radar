@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09 15:34",
+ "generated_at": "2026-09-09 16:17",
  "date": "2026-09-09",
  "first_build": false,
  "partial_last_week": true,
@@ -91,7 +91,7 @@
    "color": "#6d5efc",
    "count": 152,
    "recent": 21,
-   "raw": 95.37,
+   "raw": 95.31,
    "momentum": -0.111,
    "series": [
     1,
@@ -135,7 +135,7 @@
      "title": "虚幻引擎CEO围观最新世界模型：代码驱动，视频模型生成画面",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qS1BWTEdPSjcyaWdCbmZ1cnlIZ3JkNE9VQjFUQTFfM1RiVDhmanNmSFA2YzJXTGtPdlFzSzI0OG1jTFVhbTN2UFlfZFY3Y2NWa1VB?oc=5",
      "source": "36Kr",
-     "heat": 72.4,
+     "heat": 72.3,
      "date": "2026-09-07"
     },
     {
@@ -155,7 +155,7 @@
    "color": "#2f9e6e",
    "count": 105,
    "recent": 13,
-   "raw": 77.66,
+   "raw": 77.58,
    "momentum": 0.6,
    "series": [
     5,
@@ -206,11 +206,11 @@
      "title": "Higgsfield 推出基于 GPT-6 Astra 的 Games 2.0，一句提示生成开放世界游戏",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGpUdHZZMHhlaG5NSkhWLXZycmU1czBTR0pIZ1plVWVFWmhDWGtHVkVUOElYWFpxUHIzUnpENWw4Z0lQVk1iVHFweXRrMm5vZXFWTlFZbG9ka29venhkUkpSYjJkUVNVRkhrMjBqYW9hQXdGVFZTSG9FbmtabmVYODY1aw?oc=5",
      "source": "Pasquale Pillitteri",
-     "heat": 61.4,
+     "heat": 61.3,
      "date": "2026-09-08"
     }
    ],
-   "heat": 78.2
+   "heat": 78.1
   },
   {
    "key": "asset_gen",
@@ -219,7 +219,7 @@
    "color": "#e0862a",
    "count": 50,
    "recent": 4,
-   "raw": 71.54,
+   "raw": 71.51,
    "momentum": -0.25,
    "series": [
     3,
@@ -256,7 +256,7 @@
      "title": "Tripo AI Positions Platform for AI-Generated 3D Content Across Games and 3D Printing",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdVpZZ0tJajFFdWppZGo1cHVwSHRWbHl3a1AzaWpmS1FtYlk2ZHcta2IwUFNJbDdlUk42c0hTbmVOQU1lRC1zTE9yVU9Xc3FSTElELWx1cWhaODJnR1NjMm02QU1NTkV2TVMxWXVaV0NiUDhESjUxRjl4UmZxdmxJN1JVRzJHeXhVajN1OXBhcHlDWm5KYTh0VzZlUFliRnV2bDBjemZMaDRnZlFoMXhXX1JaY1lLUk5RUHZVQnFHdlo3N1RxejM1d1Y2Ni0?oc=5",
      "source": "TipRanks",
-     "heat": 58.0,
+     "heat": 57.9,
      "date": "2026-09-07"
     },
     {
@@ -283,7 +283,7 @@
    "color": "#c94f7c",
    "count": 111,
    "recent": 14,
-   "raw": 79.12,
+   "raw": 79.06,
    "momentum": 1.4,
    "series": [
     6,
@@ -313,7 +313,7 @@
      "title": "WorldMind: Decoupled Game World Model for State-Aware NPC Behavior",
      "url": "http://arxiv.org/abs/2608.21439v1",
      "source": "arXiv",
-     "heat": 59.7,
+     "heat": 59.6,
      "date": "2026-08-18"
     },
     {
@@ -334,7 +334,7 @@
      "title": "《神鬼寓言》游戏总监称本作所有 NPC 均为人工设计，未使用 AI 及随机生成器",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wck5kdy1iaTd4UEEzcjdMTXFCVmZRTzJWWXM1Z3lLZDd0bEJQemlBczZjWEJmOVlNNjFoYTVoVER6Mmx1YW1kRVZRLVhULWcwdVJSd0lGY0d6ZDBEdDBCYjFKZHp4enduRTlpMzhOY2JYUzRqX2NXZW80SVZJVGc?oc=5",
      "source": "新浪财经",
-     "heat": 56.6,
+     "heat": 56.5,
      "date": "2026-09-07"
     }
    ],
@@ -347,7 +347,7 @@
    "color": "#2b7fbf",
    "count": 175,
    "recent": 24,
-   "raw": 99.35,
+   "raw": 99.29,
    "momentum": -0.382,
    "series": [
     2,
@@ -398,7 +398,7 @@
      "title": "RandallLiuXin/GodotMaker",
      "url": "https://github.com/RandallLiuXin/GodotMaker",
      "source": "GitHub",
-     "heat": 74.5,
+     "heat": 74.4,
      "date": "2026-09-08"
     }
    ],
@@ -411,7 +411,7 @@
    "color": "#7a5cf0",
    "count": 213,
    "recent": 33,
-   "raw": 97.69,
+   "raw": 97.65,
    "momentum": 0.302,
    "series": [
     4,
@@ -462,7 +462,7 @@
      "title": "RandallLiuXin/GodotMaker",
      "url": "https://github.com/RandallLiuXin/GodotMaker",
      "source": "GitHub",
-     "heat": 74.5,
+     "heat": 74.4,
      "date": "2026-09-08"
     }
    ],
@@ -475,7 +475,7 @@
    "color": "#d4483b",
    "count": 440,
    "recent": 44,
-   "raw": 80.69,
+   "raw": 80.61,
    "momentum": -0.287,
    "series": [
     24,
@@ -498,35 +498,35 @@
      "title": "[Guest post] How Generative AI Is Changing Game Development",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFhvQ3h6aDJSV0F4UjEyb3Q0ZzF5alZ3MGJaN0VJb1pPUGtTSk0xcHdvS1hHa3A1dmtzVWMtWk85bEZhczB2dUptRG0zMzZYN1dpV0owNzNYSElGVV9lTXF3YUZNUldvMXc2aFU4aHg3d1IzNE55S0ZzTWU0Qm9GSVJCVUthazFxdVpYTHB2SkJTNkFq?oc=5",
      "source": "mcv/develop",
-     "heat": 67.1,
+     "heat": 67.0,
      "date": "2026-09-07"
     },
     {
      "title": "AI恐慌蔓延 游戏开发商被迫自证预告片为真人实拍制作",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2ZGpDcHkwZWU2eTFaTjRFSVZkUFhITWNqcU9YVVZ1ck1QYnNXXzZ3TW44VkdLSXB4ZDNrLWhCS1ZYNVlOYkRkTi1wVjVBZl9TMlFKMFlrWFVOWWlMeXQ1cWZHQVg?oc=5",
      "source": "news.17173.com",
-     "heat": 63.1,
+     "heat": 63.0,
      "date": "2026-09-06"
     },
     {
      "title": "腾讯 IEG 重组 AI 游戏部门，目标探索 AI 原生游戏",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iU2ZTaklUTDExWUV4QnRhRmhIcmtiekttZ3hEMXNvc1p3WUNNOEIzSGhuWEt1TTdVZExaMjVwYWsyZEQwVDAzaXZWSnZTdjJraHdJVlVuZjU?oc=5",
      "source": "CryptoRank",
-     "heat": 63.0,
+     "heat": 62.9,
      "date": "2026-09-07"
     },
     {
      "title": "利好！利好！字节跳动又搞大动作了！字节跳动将推出实时空间视频生成AI 模型，看来Al视频方向行情还会继续，​消息来源是科创板日报，在9月8日上午11点02分发布电报，字节基于现有电影级视频生成模型Seedance，打造能用于直播、短剧、游戏的交互式虚拟世界",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAySFF4VW9ZbzdTcmQ1ZHkwMnozLWlHazMzRVVjQW4wa200V3loY3VORE5IUWc2dVAtZ2YwOS00QUR2Z3RicUdwS1VIVG1vVGdad3lleWozak1sOTUyUzJWSDhJNA?oc=5",
      "source": "新浪网",
-     "heat": 60.0,
+     "heat": 59.9,
      "date": "2026-09-08"
     },
     {
      "title": "国信证券:《传媒互联网周报：模型降本与 Agent 加速演进，关注 AI 应用及游戏机会》",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OeTk3bVRkR092VlhKWVh6dW8yUkFVUHhDd01GQnhsVUpCV0JDWkY0QWZ5TzdRcHJGNlZUTFFWdVdRMkZNTlZiTmVQOEVSbGlh?oc=5",
      "source": "发现报告",
-     "heat": 58.0,
+     "heat": 57.9,
      "date": "2026-09-07"
     }
    ],
@@ -1022,14 +1022,14 @@
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAySFF4VW9ZbzdTcmQ1ZHkwMnozLWlHazMzRVVjQW4wa200V3loY3VORE5IUWc2dVAtZ2YwOS00QUR2Z3RicUdwS1VIVG1vVGdad3lleWozak1sOTUyUzJWSDhJNA?oc=5",
      "source": "新浪网",
      "date": "2026-09-08",
-     "heat": 60.0
+     "heat": 59.9
     },
     {
      "title": "WorldMind: Decoupled Game World Model for State-Aware NPC Behavior",
      "url": "http://arxiv.org/abs/2608.21439v1",
      "source": "arXiv",
      "date": "2026-08-18",
-     "heat": 59.7
+     "heat": 59.6
     }
    ]
   },
@@ -1064,14 +1064,14 @@
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGpUdHZZMHhlaG5NSkhWLXZycmU1czBTR0pIZ1plVWVFWmhDWGtHVkVUOElYWFpxUHIzUnpENWw4Z0lQVk1iVHFweXRrMm5vZXFWTlFZbG9ka29venhkUkpSYjJkUVNVRkhrMjBqYW9hQXdGVFZTSG9FbmtabmVYODY1aw?oc=5",
      "source": "Pasquale Pillitteri",
      "date": "2026-09-08",
-     "heat": 61.4
+     "heat": 61.3
     },
     {
      "title": "利好！利好！字节跳动又搞大动作了！字节跳动将推出实时空间视频生成AI 模型，看来Al视频方向行情还会继续，​消息来源是科创板日报，在9月8日上午11点02分发布电报，字节基于现有电影级视频生成模型Seedance，打造能用于直播、短剧、游戏的交互式虚拟世界",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAySFF4VW9ZbzdTcmQ1ZHkwMnozLWlHazMzRVVjQW4wa200V3loY3VORE5IUWc2dVAtZ2YwOS00QUR2Z3RicUdwS1VIVG1vVGdad3lleWozak1sOTUyUzJWSDhJNA?oc=5",
      "source": "新浪网",
      "date": "2026-09-08",
-     "heat": 60.0
+     "heat": 59.9
     },
     {
      "title": "国联民生证券:《传媒行业周报20260905：OpenAI发布GPT-6 Astra，传媒2026中报游戏、营销贡献增长动力》",
@@ -1085,7 +1085,7 @@
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5dVNBR0tSLWdNVXJJRWlFU2FlQXRRdHdfc3Vmc2YwZEc1ZThNZkV2bzlRZjJ3V0RlRXdzMXpEUlhtcWVyOXprVldnVQ?oc=5",
      "source": "매일경제",
      "date": "2026-09-01",
-     "heat": 52.2
+     "heat": 52.1
     }
    ]
   },
@@ -1127,7 +1127,7 @@
      "url": "https://github.com/EricSun0218/OpenGameAgent",
      "source": "GitHub",
      "date": "2026-09-08",
-     "heat": 63.5
+     "heat": 63.4
     },
     {
      "title": "4thfever/cultivation-world-simulator",
@@ -1141,7 +1141,7 @@
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EbjlGM3p4bEdBdnpaTDd0NGNuVkpxWTJFUmstN3U5QVl0Vi1Sc2RBaXlidFhJTTJsLWZ2Z3U5YlA4VWRLdW9nZnJlV1NVWEYzT0R0ZGY2OTRqN2t5VTRjSDJ5UmVtajJNOEowWFF3Tk0wWFA1RWl2ZA?oc=5",
      "source": "新浪财经",
      "date": "2026-09-05",
-     "heat": 60.4
+     "heat": 60.3
     }
    ]
   },
@@ -1197,7 +1197,7 @@
      "url": "https://github.com/CoplayDev/coplay-unity-plugin",
      "source": "GitHub",
      "date": "2026-09-02",
-     "heat": 60.3
+     "heat": 60.2
     }
    ]
   },
@@ -1239,7 +1239,7 @@
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OeTk3bVRkR092VlhKWVh6dW8yUkFVUHhDd01GQnhsVUpCV0JDWkY0QWZ5TzdRcHJGNlZUTFFWdVdRMkZNTlZiTmVQOEVSbGlh?oc=5",
      "source": "发现报告",
      "date": "2026-09-07",
-     "heat": 58.0
+     "heat": 57.9
     },
     {
      "title": "腾讯游戏公共技术线首次整体亮相gamescom，以全链路自研AI技术加速游戏工业创新",
@@ -1302,14 +1302,14 @@
      "url": "http://arxiv.org/abs/2609.03067v1",
      "source": "arXiv",
      "date": "2026-09-03",
-     "heat": 47.7
+     "heat": 47.6
     },
     {
      "title": "Can Video World Models Track Unobserved World States?",
      "url": "http://arxiv.org/abs/2608.30692v1",
      "source": "arXiv",
      "date": "2026-08-31",
-     "heat": 44.6
+     "heat": 44.5
     }
    ]
   },
@@ -1358,7 +1358,7 @@
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02eEFqYWlLQ3BzeU9XbThibzh6bjlhTmQzN09pUzhIOThNQ2tMRDRaYUpJbWRKa1BqNFF5bnVETGpfc0tTamNvR2duQi05NVlVQVlCQTFMZFc2NTA?oc=5",
      "source": "亚洲日报",
      "date": "2026-08-24",
-     "heat": 35.3
+     "heat": 35.2
     },
     {
      "title": "在Gamescom开发者大会进行的一项调查强调了人工智能对团队组织和生产力的潜在影响",
@@ -1407,14 +1407,14 @@
   "e9c5cf73dab13100",
   "afefa644ae2be4be",
   "c9c67a62133be160",
-  "becadeb8ae9553c3",
   "fdae6b12b9f4f651",
   "f9ca08830edf8f3f",
+  "becadeb8ae9553c3",
   "c60b081b1cfea782",
   "f12dbbc8d18bc1df",
   "597bb0d79786783d",
-  "3580c5f3a9afc5bc",
   "8c1ddda863744511",
+  "3580c5f3a9afc5bc",
   "3076663260930496",
   "4a3dc13b1d32b953",
   "ecc41c3a786ba9ce",
@@ -1423,16 +1423,16 @@
   "40c9aebf4faabf1a",
   "e6eac88699677ef1",
   "4d12dc4f6a161809",
-  "6253b31871fb235f",
   "3e9898cd1d30f7da",
-  "59fdbfe590d1726f",
+  "6253b31871fb235f",
   "51ae69b1e5438b40",
+  "59fdbfe590d1726f",
   "e577fac3da66853a",
   "f3e3f82214f94fae",
   "33b98f78f7f1759c",
   "70a9cc572f3efd91",
-  "d62752bdae2f9797",
   "6e06cb84df8a13df",
+  "d62752bdae2f9797",
   "2a007163860cfa8b",
   "3a68650c0b72d7b9",
   "b72a7b5990eddbdd",
