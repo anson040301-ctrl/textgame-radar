@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>文生游戏热点雷达 · Text-to-Game Radar</title>
+<meta name="description" content="每日追踪「文生游戏 / AI 生成游戏」领域的论文、开源项目、产业动态与社区讨论，并自动总结技术走向。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2040%2040%22%3E%3Crect%20width%3D%2240%22%20height%3D%2240%22%20rx%3D%229%22%20fill%3D%22%235b4dee%22%2F%3E%3Ccircle%20cx%3D%2220%22%20cy%3D%2220%22%20r%3D%2212.5%22%20fill%3D%22none%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.35%22%20stroke-width%3D%221.6%22%2F%3E%3Ccircle%20cx%3D%2220%22%20cy%3D%2220%22%20r%3D%226%22%20fill%3D%22none%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.55%22%20stroke-width%3D%221.6%22%2F%3E%3Cpath%20d%3D%22M20%2020%20L30%2012%22%20stroke%3D%22%23fff%22%20stroke-width%3D%222.4%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%2230%22%20cy%3D%2212%22%20r%3D%223.4%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fsvg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap top-in">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">
+        <svg viewBox="0 0 40 40" width="34" height="34">
+          <circle cx="20" cy="20" r="18" fill="none" stroke="currentColor" stroke-opacity=".22" stroke-width="1.4"/>
+          <circle cx="20" cy="20" r="11.5" fill="none" stroke="currentColor" stroke-opacity=".3" stroke-width="1.4"/>
+          <circle cx="20" cy="20" r="5" fill="none" stroke="currentColor" stroke-opacity=".45" stroke-width="1.4"/>
+          <path d="M20 20 L33 11" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          <circle cx="33" cy="11" r="3.2" fill="currentColor"/>
+          <circle cx="12" cy="27" r="2.1" fill="currentColor" fill-opacity=".55"/>
+          <circle cx="27" cy="29" r="1.6" fill="currentColor" fill-opacity=".4"/>
+        </svg>
+      </span>
+      <div class="brand-txt">
+        <h1>文生游戏热点雷达</h1>
+        <p>Text-to-Game Radar · 每日追踪 AI 生成游戏的技术与产业动向</p>
+      </div>
+    </div>
+    <div class="top-right">
+      <div class="stamp">
+        <span class="dot"></span>
+        <span>更新于 <b id="stamp">—</b></span>
+      </div>
+      <button id="themeBtn" class="ghost-btn" title="切换深浅色">
+        <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8">
+          <circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M18.7 5.3l-1.4 1.4M6.7 17.3l-1.4 1.4"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+
+  <!-- KPI -->
+  <section class="kpis" id="kpis"></section>
+
+  <!-- 走向综述 -->
+  <section class="card lead">
+    <div class="card-hd">
+      <span class="wm" aria-hidden="true">Overview</span>
+      <h2>今日走向判断</h2>
+      <span class="hint">每次更新后由抓取数据自动重算</span>
+    </div>
+    <div id="summary" class="summary"></div>
+  </section>
+
+  <!-- 热门产品 -->
+  <section class="card">
+    <div class="card-hd">
+      <span class="wm" aria-hidden="true">Products</span>
+      <h2>热门产品</h2>
+      <span class="hint">近 60 天讨论声量 · 点击卡片查看该产品的专属情报</span>
+    </div>
+    <div id="prodGrid" class="prod-grid"></div>
+    <div id="prodNew" class="prod-new" hidden></div>
+  </section>
+
+  <div class="grid-2">
+    <!-- 雷达 -->
+    <section class="card">
+      <div class="card-hd">
+        <span class="wm" aria-hidden="true">Tracks</span>
+        <h2>赛道热度雷达</h2>
+        <span class="hint">近 30 天加权热度</span>
+      </div>
+      <div class="radar-box">
+        <div id="radar" class="chart"></div>
+        <div id="radarTip" class="rtip" hidden></div>
+      </div>
+    </section>
+
+    <!-- 动能 -->
+    <section class="card">
+      <div class="card-hd">
+        <span class="wm" aria-hidden="true">Momentum</span>
+        <h2>赛道动能</h2>
+        <span class="hint">近 4 周 vs 前 8 周</span>
+      </div>
+      <div id="momentum" class="mom-list"></div>
+    </section>
+  </div>
+
+  <!-- 趋势曲线 -->
+  <section class="card">
+    <div class="card-hd">
+      <span class="wm" aria-hidden="true">Trend</span>
+      <h2>赛道热度趋势</h2>
+      <span class="hint">按发布周统计条目数 · 点击图例可增减曲线</span>
+    </div>
+    <div id="lineLegend" class="legend"></div>
+    <div id="line" class="chart"></div>
+  </section>
+
+  <!-- 热词 -->
+  <section class="card">
+    <div class="card-hd">
+      <span class="wm" aria-hidden="true">Keywords</span>
+      <h2>领域热词</h2>
+      <span class="hint">字号=总频次 · 颜色=所属赛道 · 点击可筛选下方列表</span>
+    </div>
+    <div id="cloud" class="cloud"></div>
+  </section>
+
+  <!-- 营销趋势 -->
+  <section class="card">
+    <div class="card-hd">
+      <span class="wm" aria-hidden="true">Marketing</span>
+      <h2>营销趋势</h2>
+      <span class="hint">近 30 天各类市场动作的条目数 · 环比前 30 天</span>
+    </div>
+    <div id="mktSummary" class="mkt-summary"></div>
+    <div id="mktGrid" class="mkt-grid"></div>
+  </section>
+
+  <!-- 信息构成 -->
+  <section class="card">
+    <div class="card-hd">
+      <span class="wm" aria-hidden="true">Sources</span>
+      <h2>信息构成</h2>
+      <span class="hint">全部入库条目按来源</span>
+    </div>
+    <div class="mix-wrap">
+      <div id="typeMix" class="type-mix"></div>
+      <div id="srcMix" class="src-mix"></div>
+    </div>
+  </section>
+
+  <!-- 热点流 -->
+  <section class="card feed-card">
+    <div class="card-hd">
+      <span class="wm" aria-hidden="true">Feed</span>
+      <h2>热点流</h2>
+      <span class="hint" id="feedCount">—</span>
+    </div>
+
+    <div class="filters">
+      <div class="f-row">
+        <input id="q" class="search" type="search" placeholder="搜索标题 / 摘要 / 来源…">
+        <select id="range" class="sel">
+          <option value="7">近 7 天</option>
+          <option value="30" selected>近 30 天</option>
+          <option value="90">近 90 天</option>
+          <option value="9999">全部收录</option>
+        </select>
+        <select id="sort" class="sel">
+          <option value="heat">按热度</option>
+          <option value="date">按时间</option>
+          <option value="metric">按互动量</option>
+        </select>
+      </div>
+      <div class="f-row pills" id="trackPills"></div>
+      <div class="f-row pills sub" id="typePills"></div>
+      <div class="f-row active-row" id="activeRow" hidden></div>
+    </div>
+
+    <div id="feed" class="feed"></div>
+    <button id="more" class="more-btn" hidden>加载更多</button>
+  </section>
+
+  <footer class="foot">
+    <div class="foot-c">
+      <h3>数据与方法</h3>
+      <p><b>来源</b>：arXiv API（学术预印本）· HuggingFace Papers（论文社区热度）· Hacker News（海外开发者讨论）· GitHub Search API（开源工程）· Google News RSS 中英双语（产业资讯，覆盖机器之心、甲子光年、新浪财经、澎湃等中文媒体）。全部为公开免授权接口。</p>
+      <p><b>相关性过滤</b>：条目需同时命中「AI / 生成」与「游戏」两类语义信号，或直接命中强信号词（如 text-to-game、游戏生成、AI 游戏引擎）；命中博彩、体育赛事、课程作业等噪音词直接剔除。本次共剔除 <b id="dropped">—</b> 条噪音。</p>
+      <p><b>热度分</b>：新鲜度（14 天半衰期）46% + 平台互动量（星标 / HN 得分 / 论文赞同，按源分别归一）34% + 相关性 20%，跨源重复出现额外加权。</p>
+      <p><b>动能</b>：赛道近 4 周平均条目数相对前 8 周的变化率。<b>走向判断</b>由当期数据结构（赛道排序、动能、来源构成、新词涌现）按规则自动生成，不是人工撰写，也不是模型自由发挥——同样的数据一定得到同样的结论。</p>
+      <p><b>产品识别</b>：以人工维护的产品别名表匹配标题、摘要、仓库描述与 topics。通用名（如 Claude、Sora、Steam）额外要求同一条目中出现游戏语境才计入，避免把无关讨论算进来。产品热度 = 近 60 天相关条目热度之和 × 跨源多样性加成，再归一化为相对指数。此外每次更新会自动扫描论文与仓库标题，发现词表里还没有的高频新项目名（需出现 ≥4 次且非领域泛词），用于捕捉还没被收录的新玩家。</p>
+      <p><b>营销趋势</b>：七类市场动作信号（发布、开源、融资、引擎集成、社区运营、成本叙事、概念营销）各自独立匹配关键词，统计近 30 天命中条目数并与前 30 天对比。同一条动态可同时命中多个信号，因此各项占比之和会超过 100%。</p>
+      <p><b>列表范围</b>：<span id="itemNote">—</span>。图表与统计基于全部入库条目计算，列表为控制页面体积做了上述取舍。</p>
+      <p class="tiny">本站仅索引公开信息的标题与摘要，版权归原作者与原媒体所有。点击标题跳转原文。</p>
+    </div>
+  </footer>
+</main>
+
+<div id="modal" class="modal" hidden>
+  <div class="modal-bg" data-close></div>
+  <div class="modal-box" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <button class="modal-x" data-close aria-label="关闭">✕</button>
+    <div id="modalBody"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
