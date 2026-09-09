@@ -30,6 +30,10 @@
       </div>
     </div>
     <div class="top-right">
+      <nav class="nav-tabs" aria-label="板块切换">
+        <button class="nav-tab on" data-board="radar">热点雷达</button>
+        <button class="nav-tab" data-board="campus">高校赛事</button>
+      </nav>
       <div class="stamp">
         <span class="dot"></span>
         <span>更新于 <b id="stamp">—</b></span>
@@ -45,6 +49,8 @@
 
 <main class="wrap">
 
+<!-- ================= 板块一：热点雷达 ================= -->
+<div class="board" id="board-radar">
 
   <!-- KPI -->
   <section class="kpis" id="kpis"></section>
@@ -185,6 +191,61 @@
       <p class="tiny">本站仅索引公开信息的标题与摘要，版权归原作者与原媒体所有。点击标题跳转原文。</p>
     </div>
   </footer>
+</div>
+
+<!-- ================= 板块二：高校赛事 ================= -->
+<div class="board" id="board-campus" hidden>
+
+  <section class="kpis" id="cKpis"></section>
+
+  <!-- 赛事速览 -->
+  <section class="card lead">
+    <div class="card-hd">
+      <span class="wm" aria-hidden="true">Campus</span>
+      <h2>赛事速览</h2>
+      <span class="hint">品牌方在高校办的各类赛事 · 每次更新自动重算</span>
+    </div>
+    <div id="cSummary" class="summary"></div>
+  </section>
+
+  <!-- 赛事列表 -->
+  <section class="card">
+    <div class="card-hd">
+      <span class="wm" aria-hidden="true">Events</span>
+      <h2>赛事列表</h2>
+      <span class="hint" id="cCount">—</span>
+    </div>
+
+    <div class="filters">
+      <div class="f-row">
+        <input id="cQ" class="search" type="search" placeholder="搜索赛事名 / 品牌 / 学校…">
+        <select id="cStatus" class="sel">
+          <option value="">全部状态</option>
+          <option value="报名中">报名中</option>
+          <option value="进行中">进行中</option>
+          <option value="动态">动态</option>
+          <option value="已收官">已收官</option>
+        </select>
+        <select id="cBrand" class="sel">
+          <option value="">全部品牌</option>
+        </select>
+      </div>
+      <div class="f-row pills" id="cTypePills"></div>
+    </div>
+
+    <div id="cFeed" class="c-feed"></div>
+    <button id="cMore" class="more-btn" hidden>加载更多</button>
+  </section>
+
+  <footer class="foot">
+    <div class="foot-c">
+      <h3>本板块说明</h3>
+      <p><b>范围</b>：品牌方或机构在高校举办的各类赛事——电竞、AI·算法、游戏开发、创意设计、创新创业等，信息来自 Google News 中文 RSS（覆盖各高校官网转载、教育媒体、厂商新闻稿）。</p>
+      <p><b>识别规则</b>：条目需同时命中「高校信号」（高校/大学/学院/大学生等）与「赛事信号」（大赛/联赛/挑战赛/黑客松等），并剔除高考招生、校运会、招聘会等非赛事内容。品牌方按别名表匹配，学校名按「XX大学/学院」模式抽取（已过滤"全国大学生"这类非校名表述）。</p>
+      <p><b>状态判定</b>：按文本中的「报名中/开启报名」「开赛/复赛/海选」「落幕/收官/颁奖」等词推断，仅供参考；具体以赛事官方公告为准。<b>想参赛请优先看「报名中」状态的条目并点击原文核实。</b></p>
+    </div>
+  </footer>
+</div>
 </main>
 
 <div id="modal" class="modal" hidden>
