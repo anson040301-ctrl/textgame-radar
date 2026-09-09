@@ -7,7 +7,7 @@
   "color": "#2b7fbf",
   "count": 52,
   "recent": 22,
-  "heat": 1283.8,
+  "heat": 1283.7,
   "momentum": -0.143,
   "series": [
    0,
@@ -67,7 +67,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 86.5,
+    "heat": 86.4,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -117,7 +117,7 @@
   "color": "#7a5cf0",
   "count": 21,
   "recent": 11,
-  "heat": 934.8,
+  "heat": 934.6,
   "momentum": 1.5,
   "series": [
    0,
@@ -177,7 +177,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 86.5,
+    "heat": 86.4,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -227,7 +227,7 @@
   "color": "#7a5cf0",
   "count": 45,
   "recent": 12,
-  "heat": 821.0,
+  "heat": 820.9,
   "momentum": 0.0,
   "series": [
    0,
@@ -286,7 +286,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 86.5,
+    "heat": 86.4,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -326,7 +326,7 @@
     "summary": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 27"
    }
   ],
-  "heat_index": 64.0
+  "heat_index": 63.9
  },
  {
   "name": "Roblox",
@@ -444,7 +444,7 @@
   "color": "#7a5cf0",
   "count": 15,
   "recent": 8,
-  "heat": 510.2,
+  "heat": 510.0,
   "momentum": 1.5,
   "series": [
    0,
@@ -502,7 +502,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 86.5,
+    "heat": 86.4,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -520,7 +520,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 66.2,
+    "heat": 66.1,
     "summary": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 · agent-framework ai-agent ai-simulati"
    },
    {
@@ -552,7 +552,7 @@
   "color": "#7a5cf0",
   "count": 11,
   "recent": 6,
-  "heat": 393.1,
+  "heat": 393.0,
   "momentum": 1.5,
   "series": [
    0,
@@ -610,7 +610,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 86.5,
+    "heat": 86.4,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -653,114 +653,6 @@
   "heat_index": 30.6
  },
  {
-  "name": "DeepSeek",
-  "cat": "基础模型",
-  "vendor": "深度求索",
-  "track": "agentic_dev",
-  "color": "#7a5cf0",
-  "count": 7,
-  "recent": 6,
-  "heat": 378.2,
-  "momentum": 1.5,
-  "series": [
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   3,
-   2
-  ],
-  "src_types": {
-   "repo": 5,
-   "news": 2
-  },
-  "tracks": [
-   "engine_tool",
-   "npc_narrative",
-   "agentic_dev"
-  ],
-  "terms": [
-   "DeepSeek",
-   "Claude",
-   "GPT",
-   "Agent 智能体",
-   "MCP",
-   "强化学习",
-   "Gemini",
-   "Qwen 通义"
-  ],
-  "summary": [
-   [
-    "热点概括",
-    "近 30 天有 5 条动态，前 30 天 1 条，环比增加 4 条；更早（60 天以前）还有 1 条，说明这是个持续被跟踪的对象。来源以**开源项目**为主（4 条，占 80%），其次 产业资讯 1 条。**讨论集中在开源项目**——围绕它的第三方工具、集成插件、复现实现在增加，这是生态正在成型的信号，通常比厂商自己的通稿更值得信。 主要涉及的赛道是 **Agent 自动开发** 与 **引擎与工具链**。 其中**被集成进工具链** 2 条、**开源放代码** 1 条。"
-   ],
-   [
-    "最值得看的一条",
-    "最值得看的是一条开源项目：**israriqbal/agent-ecologies**（120 星），Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 · agent-framework ai-agent ai-simulation anthropic autonom。 另外值得留意的是 **CoplayDev/coplay-unity-plugin**（159 星）——星标量比热度排名更能反映它在实际工程里的分量。"
-   ],
-   [
-    "怎么解读",
-    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**GPT**、**MCP**、**Agent 智能体**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到就在 0 天前，是当下正在发生的话题。"
-   ]
-  ],
-  "items": [
-   {
-    "title": "israriqbal/agent-ecologies",
-    "url": "https://github.com/israriqbal/agent-ecologies",
-    "source": "GitHub",
-    "source_type": "repo",
-    "date": "2026-09-08",
-    "heat": 66.2,
-    "summary": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 · agent-framework ai-agent ai-simulati"
-   },
-   {
-    "title": "CoplayDev/coplay-unity-plugin",
-    "url": "https://github.com/CoplayDev/coplay-unity-plugin",
-    "source": "GitHub",
-    "source_type": "repo",
-    "date": "2026-09-02",
-    "heat": 60.3,
-    "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
-   },
-   {
-    "title": "宝盈平台登录盈_Artificial Intelligence_DeepSeek真在招聘游戏开发！游戏引擎公司老板吐槽：“为何都想做游戏”？",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53WGt4YlZzSU5tZzFlZzBNN1JOdkFsai04R2txV3lZNXZCU0k1X0tXd3JpamNMaDlMTjk4amI4aHhvaUkwS0k3bGZpazBGZ1h1NlNoMHJlZw?oc=5",
-    "source": "体坛",
-    "source_type": "news",
-    "date": "2026-09-06",
-    "heat": 57.0,
-    "summary": "宝盈平台登录盈_Artificial Intelligence_DeepSeek真在招聘游戏开发！游戏引擎公司老板吐槽：“为何都想做游戏”？ 体坛"
-   },
-   {
-    "title": "ackness/covel",
-    "url": "https://github.com/ackness/covel",
-    "source": "GitHub",
-    "source_type": "repo",
-    "date": "2026-09-06",
-    "heat": 54.7,
-    "summary": "[Agentic AI-RPG] Agentic AI role-playing game framework — narration, NPCs, lore, and chara"
-   },
-   {
-    "title": "horizonfps/project-lunar",
-    "url": "https://github.com/horizonfps/project-lunar",
-    "source": "GitHub",
-    "source_type": "repo",
-    "date": "2026-09-08",
-    "heat": 54.1,
-    "summary": "AI-powered interactive RPG engine with persistent memory, independent NPC minds, creativit"
-   }
-  ],
-  "heat_index": 29.5
- },
- {
   "name": "GitHub Copilot",
   "cat": "AI 编程",
   "vendor": "Microsoft",
@@ -768,7 +660,7 @@
   "color": "#7a5cf0",
   "count": 7,
   "recent": 5,
-  "heat": 330.4,
+  "heat": 330.3,
   "momentum": 1.5,
   "series": [
    0,
@@ -826,7 +718,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 86.5,
+    "heat": 86.4,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -867,6 +759,114 @@
    }
   ],
   "heat_index": 25.7
+ },
+ {
+  "name": "DeepSeek",
+  "cat": "基础模型",
+  "vendor": "深度求索",
+  "track": "agentic_dev",
+  "color": "#7a5cf0",
+  "count": 6,
+  "recent": 5,
+  "heat": 310.8,
+  "momentum": 1.5,
+  "series": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   2,
+   2
+  ],
+  "src_types": {
+   "repo": 5,
+   "news": 1
+  },
+  "tracks": [
+   "npc_narrative",
+   "engine_tool",
+   "agentic_dev"
+  ],
+  "terms": [
+   "DeepSeek",
+   "Claude",
+   "GPT",
+   "Agent 智能体",
+   "MCP",
+   "强化学习",
+   "Gemini",
+   "Qwen 通义"
+  ],
+  "summary": [
+   [
+    "热点概括",
+    "近 30 天有 4 条动态，前 30 天 1 条，环比增加 3 条；更早（60 天以前）还有 1 条，说明这是个持续被跟踪的对象。来源以**开源项目**为主（4 条，占 100%）。**信息来源高度单一**，目前只在「开源项目」这一个渠道被讨论，且样本量偏小——这类产品的判断置信度较低，建议点开原始条目自己看一眼再下结论。 主要涉及的赛道是 **Agent 自动开发** 与 **NPC 与叙事智能**。 其中**被集成进工具链** 2 条、**开源放代码** 1 条。"
+   ],
+   [
+    "最值得看的一条",
+    "最值得看的是一条开源项目：**israriqbal/agent-ecologies**（120 星），Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 · agent-framework ai-agent ai-simulation anthropic autonom。 另外值得留意的是 **CoplayDev/coplay-unity-plugin**（159 星）——星标量比热度排名更能反映它在实际工程里的分量。"
+   ],
+   [
+    "怎么解读",
+    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**GPT**、**MCP**、**Agent 智能体**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到就在 0 天前，是当下正在发生的话题。"
+   ]
+  ],
+  "items": [
+   {
+    "title": "israriqbal/agent-ecologies",
+    "url": "https://github.com/israriqbal/agent-ecologies",
+    "source": "GitHub",
+    "source_type": "repo",
+    "date": "2026-09-08",
+    "heat": 66.1,
+    "summary": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 · agent-framework ai-agent ai-simulati"
+   },
+   {
+    "title": "CoplayDev/coplay-unity-plugin",
+    "url": "https://github.com/CoplayDev/coplay-unity-plugin",
+    "source": "GitHub",
+    "source_type": "repo",
+    "date": "2026-09-02",
+    "heat": 60.3,
+    "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
+   },
+   {
+    "title": "ackness/covel",
+    "url": "https://github.com/ackness/covel",
+    "source": "GitHub",
+    "source_type": "repo",
+    "date": "2026-09-06",
+    "heat": 54.7,
+    "summary": "[Agentic AI-RPG] Agentic AI role-playing game framework — narration, NPCs, lore, and chara"
+   },
+   {
+    "title": "horizonfps/project-lunar",
+    "url": "https://github.com/horizonfps/project-lunar",
+    "source": "GitHub",
+    "source_type": "repo",
+    "date": "2026-09-08",
+    "heat": 54.1,
+    "summary": "AI-powered interactive RPG engine with persistent memory, independent NPC minds, creativit"
+   },
+   {
+    "title": "prajwalshettydev/UnrealGenAISupport",
+    "url": "https://github.com/prajwalshettydev/UnrealGenAISupport",
+    "source": "GitHub",
+    "source_type": "repo",
+    "date": "2026-04-28",
+    "heat": 53.4,
+    "summary": "Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. OpenAI GPT-5, Deepseek R1, Cla"
+   }
+  ],
+  "heat_index": 24.2
  },
  {
   "name": "Unreal",
@@ -986,7 +986,7 @@
   "color": "#7a5cf0",
   "count": 9,
   "recent": 4,
-  "heat": 289.5,
+  "heat": 289.4,
   "momentum": 1.5,
   "series": [
    0,
@@ -1045,7 +1045,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 86.5,
+    "heat": 86.4,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -1085,7 +1085,7 @@
     "summary": "Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. OpenAI GPT-5, Deepseek R1, Cla"
    }
   ],
-  "heat_index": 22.6
+  "heat_index": 22.5
  },
  {
   "name": "腾讯",
@@ -1312,7 +1312,7 @@
   "color": "#6d5efc",
   "count": 11,
   "recent": 3,
-  "heat": 152.7,
+  "heat": 152.6,
   "momentum": 0.0,
   "series": [
    0,
@@ -1369,7 +1369,7 @@
     "source": "arXiv",
     "source_type": "paper",
     "date": "2026-08-31",
-    "heat": 75.2,
+    "heat": 75.1,
     "summary": "Interactive world models extend video generation from offline clip synthesis toward persis"
    },
    {
