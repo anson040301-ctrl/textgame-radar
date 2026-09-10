@@ -7,7 +7,7 @@
   "color": "#2b7fbf",
   "count": 53,
   "recent": 23,
-  "heat": 1317.7,
+  "heat": 1314.8,
   "momentum": -0.2,
   "series": [
    0,
@@ -67,7 +67,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 85.6,
+    "heat": 85.4,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -76,7 +76,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-04",
-    "heat": 79.2,
+    "heat": 79.0,
     "summary": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for"
    },
    {
@@ -85,7 +85,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-08-31",
-    "heat": 74.2,
+    "heat": 74.0,
     "summary": "A wonderful list of Game Development resources. · 2d-game-framework ai-agent awesome-list "
    },
    {
@@ -94,7 +94,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-07",
-    "heat": 64.5,
+    "heat": 64.3,
     "summary": "The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input "
    },
    {
@@ -103,7 +103,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 62.5,
+    "heat": 62.2,
     "summary": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct too"
    }
   ],
@@ -117,7 +117,7 @@
   "color": "#7a5cf0",
   "count": 22,
   "recent": 11,
-  "heat": 921.7,
+  "heat": 918.6,
   "momentum": 1.5,
   "series": [
    0,
@@ -177,7 +177,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 85.6,
+    "heat": 85.4,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -186,7 +186,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-04",
-    "heat": 79.2,
+    "heat": 79.0,
     "summary": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for"
    },
    {
@@ -195,7 +195,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-03",
-    "heat": 62.0,
+    "heat": 61.8,
     "summary": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 27"
    },
    {
@@ -204,7 +204,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 59.6,
+    "heat": 59.5,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    },
    {
@@ -213,7 +213,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 53.9,
+    "heat": 53.7,
     "summary": "[Agentic AI-RPG] Agentic AI role-playing game framework — narration, NPCs, lore, and chara"
    }
   ],
@@ -227,7 +227,7 @@
   "color": "#2b7fbf",
   "count": 53,
   "recent": 32,
-  "heat": 863.2,
+  "heat": 862.6,
   "momentum": -0.867,
   "series": [
    1,
@@ -285,7 +285,7 @@
     "source": "GamesBeat",
     "source_type": "news",
     "date": "2026-09-02",
-    "heat": 46.9,
+    "heat": 46.6,
     "summary": "How Dream Racers uses Roblox’s Cube AI to generate playable vehicles in real time | exclus"
    },
    {
@@ -294,7 +294,7 @@
     "source": "Massively Overpowered",
     "source_type": "news",
     "date": "2026-08-29",
-    "heat": 41.0,
+    "heat": 40.8,
     "summary": "Roblox clamps down on gen-AI brainrot scrolling games after Steal an Egg goes viral Massiv"
    },
    {
@@ -325,7 +325,7 @@
     "summary": "Roblox Players Will Soon Be Able to Build Games Using AI Text Prompts OpenCritic"
    }
   ],
-  "heat_index": 65.5
+  "heat_index": 65.6
  },
  {
   "name": "Claude",
@@ -335,7 +335,7 @@
   "color": "#7a5cf0",
   "count": 45,
   "recent": 12,
-  "heat": 813.3,
+  "heat": 811.4,
   "momentum": 0.0,
   "series": [
    0,
@@ -384,7 +384,7 @@
    ],
    [
     "怎么解读",
-    "**声量基本持平**，没有出现明显的起落。 常与它一起出现的是 **Unity**、**MCP**、**Cursor**、**GPT**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到就在 1 天前，是当下正在发生的话题。"
+    "**声量基本持平**，没有出现明显的起落。 常与它一起出现的是 **Unity**、**MCP**、**Cursor**、**GPT**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到就在 2 天前，是当下正在发生的话题。"
    ]
   ],
   "items": [
@@ -394,7 +394,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 85.6,
+    "heat": 85.4,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -403,7 +403,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-04",
-    "heat": 79.2,
+    "heat": 79.0,
     "summary": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for"
    },
    {
@@ -412,7 +412,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 73.5,
+    "heat": 73.2,
     "summary": "Autonomous text-to-game pipeline for Godot, powered by Claude Code,Codex,Opencode · ai-age"
    },
    {
@@ -421,7 +421,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-07",
-    "heat": 64.5,
+    "heat": 64.3,
     "summary": "The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input "
    },
    {
@@ -430,7 +430,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-03",
-    "heat": 62.0,
+    "heat": 61.8,
     "summary": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 27"
    }
   ],
@@ -444,7 +444,7 @@
   "color": "#7a5cf0",
   "count": 15,
   "recent": 8,
-  "heat": 505.3,
+  "heat": 504.0,
   "momentum": 1.5,
   "series": [
    0,
@@ -502,7 +502,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 85.6,
+    "heat": 85.4,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -511,7 +511,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-04",
-    "heat": 79.2,
+    "heat": 79.0,
     "summary": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for"
    },
    {
@@ -520,7 +520,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 65.1,
+    "heat": 64.9,
     "summary": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 · agent-framework ai-agent ai-simulati"
    },
    {
@@ -529,7 +529,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-07",
-    "heat": 64.5,
+    "heat": 64.3,
     "summary": "The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input "
    },
    {
@@ -538,7 +538,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-03",
-    "heat": 62.0,
+    "heat": 61.8,
     "summary": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 27"
    }
   ],
@@ -552,7 +552,7 @@
   "color": "#7a5cf0",
   "count": 11,
   "recent": 6,
-  "heat": 389.0,
+  "heat": 388.1,
   "momentum": 1.5,
   "series": [
    0,
@@ -610,7 +610,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 85.6,
+    "heat": 85.4,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -619,7 +619,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-04",
-    "heat": 79.2,
+    "heat": 79.0,
     "summary": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for"
    },
    {
@@ -628,7 +628,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-07",
-    "heat": 64.5,
+    "heat": 64.3,
     "summary": "The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input "
    },
    {
@@ -637,7 +637,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-03",
-    "heat": 62.0,
+    "heat": 61.8,
     "summary": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 27"
    },
    {
@@ -646,7 +646,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 59.6,
+    "heat": 59.5,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    }
   ],
@@ -660,7 +660,7 @@
   "color": "#7a5cf0",
   "count": 7,
   "recent": 5,
-  "heat": 327.0,
+  "heat": 326.3,
   "momentum": 1.5,
   "series": [
    0,
@@ -718,7 +718,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 85.6,
+    "heat": 85.4,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -727,7 +727,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-04",
-    "heat": 79.2,
+    "heat": 79.0,
     "summary": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for"
    },
    {
@@ -736,7 +736,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-07",
-    "heat": 64.5,
+    "heat": 64.3,
     "summary": "The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input "
    },
    {
@@ -745,7 +745,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 59.6,
+    "heat": 59.5,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    },
    {
@@ -768,7 +768,7 @@
   "color": "#7a5cf0",
   "count": 6,
   "recent": 5,
-  "heat": 306.4,
+  "heat": 305.5,
   "momentum": 1.5,
   "series": [
    0,
@@ -826,7 +826,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 65.1,
+    "heat": 64.9,
     "summary": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 · agent-framework ai-agent ai-simulati"
    },
    {
@@ -835,7 +835,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 59.6,
+    "heat": 59.5,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    },
    {
@@ -844,7 +844,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 53.9,
+    "heat": 53.7,
     "summary": "[Agentic AI-RPG] Agentic AI role-playing game framework — narration, NPCs, lore, and chara"
    },
    {
@@ -862,11 +862,11 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 53.1,
+    "heat": 52.9,
     "summary": "AI-powered interactive RPG engine with persistent memory, independent NPC minds, creativit"
    }
   ],
-  "heat_index": 23.3
+  "heat_index": 23.2
  },
  {
   "name": "Unreal",
@@ -876,7 +876,7 @@
   "color": "#2b7fbf",
   "count": 24,
   "recent": 4,
-  "heat": 288.6,
+  "heat": 286.8,
   "momentum": 1.0,
   "series": [
    0,
@@ -936,7 +936,7 @@
     "source": "36Kr",
     "source_type": "news",
     "date": "2026-09-07",
-    "heat": 70.7,
+    "heat": 70.2,
     "summary": "虚幻引擎CEO围观最新世界模型：代码驱动，视频模型生成画面 36 Kr"
    },
    {
@@ -945,17 +945,8 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 62.5,
+    "heat": 62.2,
     "summary": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct too"
-   },
-   {
-    "title": "Rocksteady’s New Batman Game is Expanding With Advanced AI, Melee Combat, and Unreal Engine 5",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GOUE3QXAwUE9ZUDJ1TUdGZ1hHNGJaclBHeDRXaEdzZHUwWTNIa0J0dm1kQXNwYlN0ZEVxamM4TWVqWkpfbU9OY3NpOFZEUm1HR1FHU1VnS2VlMl9JYnRjMF85aEphMjl1dl95U1B4MFc?oc=5",
-    "source": "NoobFeed",
-    "source_type": "news",
-    "date": "2026-09-07",
-    "heat": 55.6,
-    "summary": "Rocksteady’s New Batman Game is Expanding With Advanced AI, Melee Combat, and Unreal Engin"
    },
    {
     "title": "Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory",
@@ -967,6 +958,15 @@
     "summary": "With the advancement of interactive video generation, diffusion models have increasingly d"
    },
    {
+    "title": "Rocksteady’s New Batman Game is Expanding With Advanced AI, Melee Combat, and Unreal Engine 5",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GOUE3QXAwUE9ZUDJ1TUdGZ1hHNGJaclBHeDRXaEdzZHUwWTNIa0J0dm1kQXNwYlN0ZEVxamM4TWVqWkpfbU9OY3NpOFZEUm1HR1FHU1VnS2VlMl9JYnRjMF85aEphMjl1dl95U1B4MFc?oc=5",
+    "source": "NoobFeed",
+    "source_type": "news",
+    "date": "2026-09-07",
+    "heat": 55.1,
+    "summary": "Rocksteady’s New Batman Game is Expanding With Advanced AI, Melee Combat, and Unreal Engin"
+   },
+   {
     "title": "Show HN: AI agents that control Unity, Godot, and Unreal editors",
     "url": "https://github.com/TomLeeLive/openclaw-unity-plugin",
     "source": "Hacker News",
@@ -976,7 +976,7 @@
     "summary": "I built OpenClaw plugins for the three major game engines. The AI agent controls the edito"
    }
   ],
-  "heat_index": 21.9
+  "heat_index": 21.8
  },
  {
   "name": "Gemini",
@@ -986,7 +986,7 @@
   "color": "#7a5cf0",
   "count": 9,
   "recent": 4,
-  "heat": 286.4,
+  "heat": 285.7,
   "momentum": 1.5,
   "series": [
    0,
@@ -1045,7 +1045,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 85.6,
+    "heat": 85.4,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -1054,7 +1054,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-04",
-    "heat": 79.2,
+    "heat": 79.0,
     "summary": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for"
    },
    {
@@ -1063,7 +1063,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-03",
-    "heat": 62.0,
+    "heat": 61.8,
     "summary": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 27"
    },
    {
@@ -1072,7 +1072,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 59.6,
+    "heat": 59.5,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    },
    {
@@ -1095,7 +1095,7 @@
   "color": "#d4483b",
   "count": 30,
   "recent": 7,
-  "heat": 263.1,
+  "heat": 262.3,
   "momentum": 0.2,
   "series": [
    0,
@@ -1152,7 +1152,7 @@
     "source": "CryptoRank",
     "source_type": "news",
     "date": "2026-09-07",
-    "heat": 61.3,
+    "heat": 60.9,
     "summary": "腾讯 IEG 重组 AI 游戏部门，目标探索 AI 原生游戏 CryptoRank"
    },
    {
@@ -1161,7 +1161,7 @@
     "source": "机核GCORES",
     "source_type": "news",
     "date": "2026-08-28",
-    "heat": 48.0,
+    "heat": 47.8,
     "summary": "腾讯游戏公共技术线首次整体亮相gamescom，以全链路自研AI技术加速游戏工业创新 机核GCORES"
    },
    {
@@ -1192,7 +1192,7 @@
     "summary": "腾讯游戏发布2026暑期未保专项，升级AI双引擎防沉迷模式 紫牛新闻"
    }
   ],
-  "heat_index": 20.0
+  "heat_index": 19.9
  },
  {
   "name": "Godot",
@@ -1202,7 +1202,7 @@
   "color": "#2b7fbf",
   "count": 18,
   "recent": 4,
-  "heat": 236.1,
+  "heat": 235.3,
   "momentum": 1.0,
   "series": [
    0,
@@ -1252,7 +1252,7 @@
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +100%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Agent 智能体**、**Unity**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到就在 1 天前，是当下正在发生的话题。"
+    "**声量在明显上升**（周提及动能 +100%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Agent 智能体**、**Unity**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到就在 2 天前，是当下正在发生的话题。"
    ]
   ],
   "items": [
@@ -1262,7 +1262,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 73.5,
+    "heat": 73.2,
     "summary": "Autonomous text-to-game pipeline for Godot, powered by Claude Code,Codex,Opencode · ai-age"
    },
    {
@@ -1271,7 +1271,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 62.5,
+    "heat": 62.2,
     "summary": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct too"
    },
    {
@@ -1280,7 +1280,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-03",
-    "heat": 62.0,
+    "heat": 61.8,
     "summary": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 27"
    },
    {
@@ -1312,7 +1312,7 @@
   "color": "#6d5efc",
   "count": 11,
   "recent": 3,
-  "heat": 169.8,
+  "heat": 169.4,
   "momentum": 0.0,
   "series": [
    0,
@@ -1369,7 +1369,7 @@
     "source": "arXiv",
     "source_type": "paper",
     "date": "2026-08-31",
-    "heat": 73.9,
+    "heat": 73.6,
     "summary": "Interactive world models extend video generation from offline clip synthesis toward persis"
    },
    {
@@ -1419,7 +1419,7 @@
   "color": "#d4483b",
   "count": 17,
   "recent": 5,
-  "heat": 151.5,
+  "heat": 151.2,
   "momentum": -1.0,
   "series": [
    2,
@@ -1467,7 +1467,7 @@
    ],
    [
     "怎么解读",
-    "**声量明显回落**（-100%）。对产品来说这未必是坏消息：话题性下降往往发生在能力已经被当成默认选项之后，也可能只是这一轮发布的周期结束了。要结合它有没有持续的版本更新来判断，而不是只看讨论量。 常与它一起出现的是 **Vibe Coding**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到已是 28 天前，热度已过，可以作为背景资料看。"
+    "**声量明显回落**（-100%）。对产品来说这未必是坏消息：话题性下降往往发生在能力已经被当成默认选项之后，也可能只是这一轮发布的周期结束了。要结合它有没有持续的版本更新来判断，而不是只看讨论量。 常与它一起出现的是 **Vibe Coding**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到已是 29 天前，热度已过，可以作为背景资料看。"
    ]
   ],
   "items": [
@@ -1477,7 +1477,7 @@
     "source": "Tech4Gamers",
     "source_type": "news",
     "date": "2026-07-15",
-    "heat": 30.9,
+    "heat": 30.8,
     "summary": "AI Vibe Coding Could Soon Become A Huge Issue For Steam Games, Warns Analyst tech4gamers.c"
    },
    {
@@ -1486,7 +1486,7 @@
     "source": "arXiv",
     "source_type": "paper",
     "date": "2026-08-12",
-    "heat": 28.9,
+    "heat": 28.8,
     "summary": "The rapid adoption of generative AI in game development has created large discussions amon"
    },
    {
@@ -1520,87 +1520,6 @@
   "heat_index": 11.5
  },
  {
-  "name": "米哈游",
-  "cat": "大厂",
-  "vendor": "中国",
-  "track": "industry",
-  "color": "#d4483b",
-  "count": 3,
-  "recent": 1,
-  "heat": 59.5,
-  "momentum": 0.0,
-  "series": [
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  "src_types": {
-   "news": 3
-  },
-  "tracks": [
-   "npc_narrative",
-   "industry"
-  ],
-  "terms": [
-   "米哈游"
-  ],
-  "summary": [
-   [
-    "热点概括",
-    "近 60 天有 1 条动态，前 60 天 1 条，基本持平；更早（90 天以前）还有 2 条，说明这是个持续被跟踪的对象。来源以**产业资讯**为主（1 条，占 100%）。**信息来源高度单一**，目前只在「产业资讯」这一个渠道被讨论，且样本量偏小——这类产品的判断置信度较低，建议点开原始条目自己看一眼再下结论。 主要涉及的赛道是 **产业与商业化**。 其中**对外发新版 / 上线新能力** 1 条。"
-   ],
-   [
-    "最值得看的一条",
-    "最值得看的是一条资讯：**米哈游要造“AI梦工厂”？《星耀8》内测 AI 视频平台，玩家人人拍大片！**，米哈游要造“AI梦工厂”？《星耀8》内测 AI 视频平台，玩家人人拍大片！ ttplus.cn。"
-   ],
-   [
-    "怎么解读",
-    "**声量基本持平**，没有出现明显的起落。 最近一次被提到就在 1 天前，是当下正在发生的话题。"
-   ]
-  ],
-  "items": [
-   {
-    "title": "米哈游要造“AI梦工厂”？《星耀8》内测 AI 视频平台，玩家人人拍大片！",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41bFI1VkRHbF9YNVpqVmw3T0c5VkpSUWFEVjU5aGM0bDZKeWNMV1hXNDhnUks0OGlJUFBYOTBMR0FSdGNnUzZYb1cxZW1KZw?oc=5",
-    "source": "ttplus.cn",
-    "source_type": "news",
-    "date": "2026-09-09",
-    "heat": 59.5,
-    "summary": "米哈游要造“AI梦工厂”？《星耀8》内测 AI 视频平台，玩家人人拍大片！ ttplus.cn"
-   },
-   {
-    "title": "HoYoverse plans an AI ecosystem for games and NPC systems.",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTXBoWkcxRkdkcllnS2VtdnlzUk13UGIwLWk4VXRfMi1Kc1JsWWdJVUVleTBhVzJRQ2YzMzNCWmtUSzVSd0l5N0N2SzlQMi1FdE5mMk5HT2VhRG0tVnRxREFUeU5rNGRPc0g1NUpzSkNCS0xWQmN2M1dKc2xteHNIQUlyZnAxcTM3bHU1ckxiMnlYUG11WXQ5bk5DajlHdjFldWFHeXFBZUlvMTVVV1BlTnpHSFotbUtiTW16d1lNNnF5Y25KbGdZaFNiUFZZRmNKeE9qYUE4N2RmZ3hDck82TmNubVZ4eE1WWGdaQUZtX1VidVd6cHhUWEE0VWV0dDJ1ZXhQQ0pR?oc=5",
-    "source": "virus.hr",
-    "source_type": "news",
-    "date": "2026-05-29",
-    "heat": 20.8,
-    "summary": "HoYoverse plans an AI ecosystem for games and NPC systems. virus.hr"
-   },
-   {
-    "title": "行业热门的AI+NPC，怎么米哈游她就不一样？",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oWndxMFk3bDYtNzY5bklxYnNiWThIRTJLalhFTncxM1NYNHE1MlhqSkFBWW4wUk9oU2lEYThzOWtJOGsyeDRHVHRaMA?oc=5",
-    "source": "GameRes游资网",
-    "source_type": "news",
-    "date": "2026-04-21",
-    "heat": 18.9,
-    "summary": "行业热门的AI+NPC，怎么米哈游她就不一样？ GameRes游资网"
-   }
-  ],
-  "heat_index": 4.5
- },
- {
   "name": "Tripo",
   "cat": "3D 生成",
   "vendor": "VAST",
@@ -1608,7 +1527,7 @@
   "color": "#e0862a",
   "count": 3,
   "recent": 1,
-  "heat": 56.2,
+  "heat": 55.8,
   "momentum": 0.0,
   "series": [
    0,
@@ -1666,7 +1585,7 @@
     "source": "TipRanks",
     "source_type": "news",
     "date": "2026-09-07",
-    "heat": 56.2,
+    "heat": 55.8,
     "summary": "Tripo AI Positions Platform for AI-Generated 3D Content Across Games and 3D Printing TipRa"
    },
    {
@@ -1688,7 +1607,7 @@
     "summary": "3D生成到达3.0阶段，不止提升行业渗透率，也正催生3D原生新玩法 | 对话3D生成平台Tripo hub.baai.ac.cn"
    }
   ],
-  "heat_index": 4.3
+  "heat_index": 4.2
  },
  {
   "name": "Qwen",
@@ -1698,7 +1617,7 @@
   "color": "#7a5cf0",
   "count": 5,
   "recent": 1,
-  "heat": 53.9,
+  "heat": 53.7,
   "momentum": 1.0,
   "series": [
    0,
@@ -1757,7 +1676,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 53.9,
+    "heat": 53.7,
     "summary": "[Agentic AI-RPG] Agentic AI role-playing game framework — narration, NPCs, lore, and chara"
    },
    {
@@ -1807,7 +1726,7 @@
   "color": "#c94f7c",
   "count": 3,
   "recent": 1,
-  "heat": 50.9,
+  "heat": 50.8,
   "momentum": 1.5,
   "series": [
    0,
@@ -1861,7 +1780,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 50.9,
+    "heat": 50.8,
     "summary": "Self-hosted AI Dungeon Master - run extended TTRPG campaigns with smart memory, living NPC"
    },
    {
@@ -1893,7 +1812,7 @@
   "color": "#6d5efc",
   "count": 2,
   "recent": 1,
-  "heat": 38.1,
+  "heat": 38.0,
   "momentum": -1.0,
   "series": [
    0,
@@ -1949,7 +1868,7 @@
     "source": "techtimes.com",
     "source_type": "news",
     "date": "2026-07-15",
-    "heat": 38.1,
+    "heat": 38.0,
     "summary": "PixVerse Closes $439M Round, Targets AI Game Engines After Sora Exits Market techtimes.com"
    },
    {
@@ -2198,7 +2117,7 @@
     "source": "arXiv",
     "source_type": "paper",
     "date": "2026-07-07",
-    "heat": 68.4,
+    "heat": 68.3,
     "summary": "Game worlds have traditionally been built through labor-intensive production pipelines, ma"
    },
    {
