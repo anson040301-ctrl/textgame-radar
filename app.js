@@ -869,12 +869,37 @@
 
   function renderCampus() {
     var list = campusFiltered();
-    document.getElementById('cFeed').innerHTML = list.length
-      ? list.slice(0, C_SHOWN).map(evCard).join('')
-      : '<div class="empty">没有符合条件的赛事，试着放宽筛选。</div>';
+    var hasFilter = CF.types.length || CF.status || CF.brand || CF.q;
+    var html = '';
+    if (!list.length) {
+      html = '<div class="empty">没有符合条件的赛事，试着放宽筛选。</div>';
+    } else if (hasFilter) {
+      html = list.slice(0, C_SHOWN).map(evCard).join('');
+    } else {
+      // 无筛选时按状态分组：先看能报名的，再看进行中的
+      var groups = [
+        ['报名中', '现在就能报名'],
+        ['进行中', '正在比'],
+        ['动态', '最新动态'],
+        ['已收官', '已结束 · 看结果'],
+      ];
+      var shown = 0;
+      for (var gi = 0; gi < groups.length; gi++) {
+        var gname = groups[gi][0], gsub = groups[gi][1];
+        var glist = list.filter(function (e) { return e.status === gname; });
+        if (!glist.length || shown >= C_SHOWN) continue;
+        var gslice = glist.slice(0, Math.max(0, C_SHOWN - shown));
+        shown += gslice.length;
+        html += '<div class="ev-group"><span class="ev-g-dot" style="background:'
+          + gslice[0].status_color + '"></span>' + gname
+          + '<span class="ev-g-sub">' + gsub + ' · ' + glist.length + ' 场</span></div>'
+          + gslice.map(evCard).join('');
+      }
+    }
+    document.getElementById('cFeed').innerHTML = html;
     document.getElementById('cMore').hidden = list.length <= C_SHOWN;
     document.getElementById('cCount').textContent =
-      '命中 ' + list.length + ' 场' + (list.length > C_SHOWN ? '，已显示 ' + C_SHOWN : '');
+      '命中 ' + list.length + ' 场' + (list.length > C_SHOWN ? '，已显示 ' + Math.min(C_SHOWN, list.length) : '');
   }
 
   /* ---------------------------------------------------------- 启动 */
