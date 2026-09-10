@@ -1,21 +1,21 @@
 {
- "generated_at": "2026-09-10 08:57",
+ "generated_at": "2026-09-10 13:40",
  "date": "2026-09-10",
  "first_build": false,
  "partial_last_week": true,
  "counts": {
-  "total": 1026,
-  "d7": 53,
-  "d30": 133,
-  "new_today": 27,
-  "sources": 267,
-  "dropped": 1739
+  "total": 1019,
+  "d7": 46,
+  "d30": 125,
+  "new_today": 21,
+  "sources": 265,
+  "dropped": 1746
  },
  "type_mix": [
   {
    "type": "news",
    "label": "资讯",
-   "count": 616
+   "count": 609
   },
   {
    "type": "paper",
@@ -91,7 +91,7 @@
    "color": "#6d5efc",
    "count": 153,
    "recent": 21,
-   "raw": 93.88,
+   "raw": 93.46,
    "momentum": -0.13,
    "series": [
     1,
@@ -114,39 +114,39 @@
      "title": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
      "url": "http://arxiv.org/abs/2608.25518v1",
      "source": "arXiv",
-     "heat": 86.8,
+     "heat": 86.6,
      "date": "2026-08-26"
     },
     {
      "title": "GameWAM: A World Action Model for Video Games",
      "url": "http://arxiv.org/abs/2608.26200v1",
      "source": "arXiv",
-     "heat": 80.8,
+     "heat": 80.6,
      "date": "2026-08-26"
     },
     {
      "title": "Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory",
      "url": "http://arxiv.org/abs/2608.29910v1",
      "source": "arXiv",
-     "heat": 73.9,
+     "heat": 73.6,
      "date": "2026-08-31"
     },
     {
      "title": "虚幻引擎CEO围观最新世界模型：代码驱动，视频模型生成画面",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qS1BWTEdPSjcyaWdCbmZ1cnlIZ3JkNE9VQjFUQTFfM1RiVDhmanNmSFA2YzJXTGtPdlFzSzI0OG1jTFVhbTN2UFlfZFY3Y2NWa1VB?oc=5",
      "source": "36Kr",
-     "heat": 70.7,
+     "heat": 70.2,
      "date": "2026-09-07"
     },
     {
      "title": "AlayaWorld: Long-Horizon and Playable Video World Generation",
      "url": "http://arxiv.org/abs/2607.06291v1",
      "source": "arXiv",
-     "heat": 68.4,
+     "heat": 68.3,
      "date": "2026-07-07"
     }
    ],
-   "heat": 95.2
+   "heat": 95.9
   },
   {
    "key": "level_gen",
@@ -155,7 +155,7 @@
    "color": "#2f9e6e",
    "count": 109,
    "recent": 14,
-   "raw": 76.91,
+   "raw": 76.57,
    "momentum": 0.529,
    "series": [
     6,
@@ -178,7 +178,7 @@
      "title": "GameWAM: A World Action Model for Video Games",
      "url": "http://arxiv.org/abs/2608.26200v1",
      "source": "arXiv",
-     "heat": 80.8,
+     "heat": 80.6,
      "date": "2026-08-26"
     },
     {
@@ -189,28 +189,28 @@
      "date": "2026-04-20"
     },
     {
-     "title": "当 AI 成为玩法本身：三位制作人的实战手册",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsX1JTRVNZbnc0UHZOQ3QzSzliR3RkMWN0dkxmTXlFSjdNSGdJOHpXZXg2eDJzak1Dd0ZDSkZ0Y0VSajRWU1RQenlvUURSMG8?oc=5",
-     "source": "GameRes游资网",
-     "heat": 63.8,
-     "date": "2026-09-07"
-    },
-    {
      "title": "GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?",
      "url": "http://arxiv.org/abs/2606.17861v1",
      "source": "arXiv",
-     "heat": 63.6,
+     "heat": 63.5,
      "date": "2026-06-16"
+    },
+    {
+     "title": "当 AI 成为玩法本身：三位制作人的实战手册",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsX1JTRVNZbnc0UHZOQ3QzSzliR3RkMWN0dkxmTXlFSjdNSGdJOHpXZXg2eDJzak1Dd0ZDSkZ0Y0VSajRWU1RQenlvUURSMG8?oc=5",
+     "source": "GameRes游资网",
+     "heat": 63.3,
+     "date": "2026-09-07"
     },
     {
      "title": "Glade-tool/glade-mcp",
      "url": "https://github.com/Glade-tool/glade-mcp",
      "source": "GitHub",
-     "heat": 62.0,
+     "heat": 61.8,
      "date": "2026-09-03"
     }
    ],
-   "heat": 78.0
+   "heat": 78.5
   },
   {
    "key": "asset_gen",
@@ -219,7 +219,7 @@
    "color": "#e0862a",
    "count": 50,
    "recent": 4,
-   "raw": 70.43,
+   "raw": 70.09,
    "momentum": -0.25,
    "series": [
     3,
@@ -242,7 +242,7 @@
      "title": "killop/anything_about_game",
      "url": "https://github.com/killop/anything_about_game",
      "source": "GitHub",
-     "heat": 74.2,
+     "heat": 74.0,
      "date": "2026-08-31"
     },
     {
@@ -256,7 +256,7 @@
      "title": "Tripo AI Positions Platform for AI-Generated 3D Content Across Games and 3D Printing",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdVpZZ0tJajFFdWppZGo1cHVwSHRWbHl3a1AzaWpmS1FtYlk2ZHcta2IwUFNJbDdlUk42c0hTbmVOQU1lRC1zTE9yVU9Xc3FSTElELWx1cWhaODJnR1NjMm02QU1NTkV2TVMxWXVaV0NiUDhESjUxRjl4UmZxdmxJN1JVRzJHeXhVajN1OXBhcHlDWm5KYTh0VzZlUFliRnV2bDBjemZMaDRnZlFoMXhXX1JaY1lLUk5RUHZVQnFHdlo3N1RxejM1d1Y2Ni0?oc=5",
      "source": "TipRanks",
-     "heat": 56.2,
+     "heat": 55.8,
      "date": "2026-09-07"
     },
     {
@@ -274,7 +274,7 @@
      "date": "2025-11-21"
     }
    ],
-   "heat": 71.4
+   "heat": 71.9
   },
   {
    "key": "npc_narrative",
@@ -283,7 +283,7 @@
    "color": "#c94f7c",
    "count": 112,
    "recent": 15,
-   "raw": 81.3,
+   "raw": 80.94,
    "momentum": 1.4,
    "series": [
     6,
@@ -306,28 +306,28 @@
      "title": "GTA 6 NPC系统新细节曝光：AI行为与警察机制升级",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONTBLd2RLbDUtR0VpSVBpZVdnb3Y3SHlqcTBqTEhVckF2cFZkaWVQa2JUWTdNMHpMeDBxZ0ktdUdrUmU2ZHlqdTdjYkVBSExfU1I5SFN1YkhZV0t4TmdGd1RQY0lfSzRDM3lRazV2QmJXb2JnRTY0c3VUbnNMeUwtWl9URHRkMjlmUjRWQzBuMFhkMnVOaW1FQWV2dFg3X2lqOU1v?oc=5",
      "source": "games.gg",
-     "heat": 62.6,
+     "heat": 62.0,
      "date": "2026-09-09"
     },
     {
      "title": "vegu-ai/talemate",
      "url": "https://github.com/vegu-ai/talemate",
      "source": "GitHub",
-     "heat": 61.9,
+     "heat": 61.8,
      "date": "2026-08-29"
     },
     {
      "title": "WorldMind: Decoupled Game World Model for State-Aware NPC Behavior",
      "url": "http://arxiv.org/abs/2608.21439v1",
      "source": "arXiv",
-     "heat": 59.2,
+     "heat": 59.0,
      "date": "2026-08-18"
     },
     {
      "title": "Scottcjn/legend-of-elya-n64",
      "url": "https://github.com/Scottcjn/legend-of-elya-n64",
      "source": "GitHub",
-     "heat": 58.4,
+     "heat": 58.2,
      "date": "2026-08-30"
     },
     {
@@ -338,16 +338,16 @@
      "date": "2026-04-29"
     }
    ],
-   "heat": 82.5
+   "heat": 83.0
   },
   {
    "key": "engine_tool",
    "zh": "引擎与工具链",
    "en": "Engines & Toolchains",
    "color": "#2b7fbf",
-   "count": 182,
-   "recent": 25,
-   "raw": 98.59,
+   "count": 181,
+   "recent": 24,
+   "raw": 97.49,
    "momentum": -0.432,
    "series": [
     2,
@@ -363,42 +363,42 @@
     4,
     5,
     10,
-    4
+    3
    ],
    "top": [
     {
      "title": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
      "url": "http://arxiv.org/abs/2608.25518v1",
      "source": "arXiv",
-     "heat": 86.8,
+     "heat": 86.6,
      "date": "2026-08-26"
     },
     {
      "title": "CoplayDev/unity-mcp",
      "url": "https://github.com/CoplayDev/unity-mcp",
      "source": "GitHub",
-     "heat": 85.6,
+     "heat": 85.4,
      "date": "2026-09-06"
     },
     {
      "title": "IvanMurzak/Unity-MCP",
      "url": "https://github.com/IvanMurzak/Unity-MCP",
      "source": "GitHub",
-     "heat": 79.2,
+     "heat": 79.0,
      "date": "2026-09-04"
     },
     {
      "title": "killop/anything_about_game",
      "url": "https://github.com/killop/anything_about_game",
      "source": "GitHub",
-     "heat": 74.2,
+     "heat": 74.0,
      "date": "2026-08-31"
     },
     {
      "title": "RandallLiuXin/GodotMaker",
      "url": "https://github.com/RandallLiuXin/GodotMaker",
      "source": "GitHub",
-     "heat": 73.5,
+     "heat": 73.2,
      "date": "2026-09-08"
     }
    ],
@@ -411,7 +411,7 @@
    "color": "#7a5cf0",
    "count": 214,
    "recent": 35,
-   "raw": 96.52,
+   "raw": 96.12,
    "momentum": 0.349,
    "series": [
     4,
@@ -434,49 +434,49 @@
      "title": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
      "url": "http://arxiv.org/abs/2608.25518v1",
      "source": "arXiv",
-     "heat": 86.8,
+     "heat": 86.6,
      "date": "2026-08-26"
     },
     {
      "title": "CoplayDev/unity-mcp",
      "url": "https://github.com/CoplayDev/unity-mcp",
      "source": "GitHub",
-     "heat": 85.6,
+     "heat": 85.4,
      "date": "2026-09-06"
     },
     {
      "title": "GameWAM: A World Action Model for Video Games",
      "url": "http://arxiv.org/abs/2608.26200v1",
      "source": "arXiv",
-     "heat": 80.8,
+     "heat": 80.6,
      "date": "2026-08-26"
     },
     {
      "title": "IvanMurzak/Unity-MCP",
      "url": "https://github.com/IvanMurzak/Unity-MCP",
      "source": "GitHub",
-     "heat": 79.2,
+     "heat": 79.0,
      "date": "2026-09-04"
     },
     {
      "title": "RandallLiuXin/GodotMaker",
      "url": "https://github.com/RandallLiuXin/GodotMaker",
      "source": "GitHub",
-     "heat": 73.5,
+     "heat": 73.2,
      "date": "2026-09-08"
     }
    ],
-   "heat": 97.9
+   "heat": 98.6
   },
   {
    "key": "industry",
    "zh": "产业与商业化",
    "en": "Industry & Business",
    "color": "#d4483b",
-   "count": 459,
-   "recent": 56,
-   "raw": 87.22,
-   "momentum": -0.267,
+   "count": 452,
+   "recent": 48,
+   "raw": 82.39,
+   "momentum": -0.283,
    "series": [
     25,
     16,
@@ -488,49 +488,49 @@
     25,
     8,
     11,
-    11,
+    10,
     10,
     12,
-    12
+    6
    ],
    "top": [
     {
      "title": "[Guest post] How Generative AI Is Changing Game Development",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFhvQ3h6aDJSV0F4UjEyb3Q0ZzF5alZ3MGJaN0VJb1pPUGtTSk0xcHdvS1hHa3A1dmtzVWMtWk85bEZhczB2dUptRG0zMzZYN1dpV0owNzNYSElGVV9lTXF3YUZNUldvMXc2aFU4aHg3d1IzNE55S0ZzTWU0Qm9GSVJCVUthazFxdVpYTHB2SkJTNkFq?oc=5",
      "source": "mcv/develop",
-     "heat": 65.3,
+     "heat": 64.8,
      "date": "2026-09-07"
     },
     {
      "title": "Ramen launches Aura 1.0 to push agentic AI in game development | interview",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQemlMUENxSlcwZUlHVkpQSUhSVWptMkhaVkpleHZqMklTNEZ1ZmttNVRyeGtJRXRfOHhuRENiaEtCd1JSdWJZNFgwRDUwY3pTOGRicDJYOTdJTUc2MmZOakV3YWtFWm9RRFJKUTdTM3BGR0FwTjRCUThldUZ2U3VGc2U2SnN2Qmlud013cl9B?oc=5",
      "source": "GamesBeat",
-     "heat": 63.5,
-     "date": "2026-09-09"
-    },
-    {
-     "title": "AI大模型落地产业一线：真人AG平台游戏加速智能化转型",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kVUs5ay1vT3RrMkRyZmx2RDUwVDBidzdYbWVZYml1aWlMV1ZoamVtcEhlMl9mM3ltTWxmV194Z2ItWUhrMHhNS3ZtX01nU3Ju?oc=5",
-     "source": "ttplus.cn",
-     "heat": 62.0,
-     "date": "2026-09-09"
-    },
-    {
-     "title": "39游戏平台官方网站全新版本上线，AI智能推荐与玩家共创引领足球社区新潮流- 体坛网_体坛+",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xS2dsZjdXLWJlekhBVmZDUjdxampZeFpBLXpJaVZXUGJCNERvUWpXclZrOVVldFVKUmtiQUtxbXFkdDVQYzE2aUk2QQ?oc=5",
-     "source": "ttplus.cn",
-     "heat": 61.9,
+     "heat": 63.0,
      "date": "2026-09-09"
     },
     {
      "title": "AI恐慌蔓延 游戏开发商被迫自证预告片为真人实拍制作",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2ZGpDcHkwZWU2eTFaTjRFSVZkUFhITWNqcU9YVVZ1ck1QYnNXXzZ3TW44VkdLSXB4ZDNrLWhCS1ZYNVlOYkRkTi1wVjVBZl9TMlFKMFlrWFVOWWlMeXQ1cWZHQVg?oc=5",
      "source": "news.17173.com",
-     "heat": 61.5,
+     "heat": 61.0,
      "date": "2026-09-06"
+    },
+    {
+     "title": "腾讯 IEG 重组 AI 游戏部门，目标探索 AI 原生游戏",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iU2ZTaklUTDExWUV4QnRhRmhIcmtiekttZ3hEMXNvc1p3WUNNOEIzSGhuWEt1TTdVZExaMjVwYWsyZEQwVDAzaXZWSnZTdjJraHdJVlVuZjU?oc=5",
+     "source": "CryptoRank",
+     "heat": 60.9,
+     "date": "2026-09-07"
+    },
+    {
+     "title": "AI模型遭“越狱”，沦为“造黄”牟利工具！某游戏公司程序员组建研发团队，利用生成式AI制作淫秽物品牟利！6人获刑",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83eGZNU28zc056WHF1YVRuT3lfbjFfdUc0alpHRmxoelkwQVBvM1ROWDVzc3pneXJ3aDJFeVZ6blpOdUJoZXFIWG40WW9TMVdNUXRheTZxb3ZlVW56SzZBd2lYQ2Jzc25BeFhoXy1NRWJsaGd6NHlOZA?oc=5",
+     "source": "新浪财经",
+     "heat": 60.9,
+     "date": "2026-09-09"
     }
    ],
-   "heat": 88.5
+   "heat": 84.5
   },
   {
    "key": "benchmark",
@@ -539,7 +539,7 @@
    "color": "#4a8c8c",
    "count": 59,
    "recent": 5,
-   "raw": 75.94,
+   "raw": 75.68,
    "momentum": 0.111,
    "series": [
     2,
@@ -562,28 +562,28 @@
      "title": "GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?",
      "url": "http://arxiv.org/abs/2608.21833v1",
      "source": "arXiv",
-     "heat": 65.9,
+     "heat": 65.7,
      "date": "2026-08-22"
     },
     {
      "title": "From Generation to Simulation: How Far Are World Models from Being True Simulators?",
      "url": "http://arxiv.org/abs/2608.23070v1",
      "source": "arXiv",
-     "heat": 56.7,
+     "heat": 56.5,
      "date": "2026-08-24"
     },
     {
      "title": "FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents",
      "url": "https://huggingface.co/papers/2608.18423",
      "source": "HF Papers",
-     "heat": 54.3,
+     "heat": 54.1,
      "date": "2026-08-19"
     },
     {
      "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
      "url": "https://huggingface.co/papers/2608.13552",
      "source": "HF Papers",
-     "heat": 54.0,
+     "heat": 53.9,
      "date": "2026-08-13"
     },
     {
@@ -594,7 +594,7 @@
      "date": "2026-03-10"
     }
    ],
-   "heat": 77.0
+   "heat": 77.6
   }
  ],
  "labels": [
@@ -624,10 +624,10 @@
   42,
   17,
   26,
-  19,
+  18,
   26,
   39,
-  23
+  17
  ],
  "terms": [
   {
@@ -897,13 +897,6 @@
    "color": "#e0862a"
   },
   {
-   "term": "米哈游",
-   "count": 3,
-   "recent": 1,
-   "track": "npc_narrative",
-   "color": "#c94f7c"
-  },
-  {
    "term": "NVIDIA ACE",
    "count": 3,
    "recent": 0,
@@ -939,6 +932,13 @@
    "color": "#d4483b"
   },
   {
+   "term": "米哈游",
+   "count": 2,
+   "recent": 0,
+   "track": "npc_narrative",
+   "color": "#c94f7c"
+  },
+  {
    "term": "字节跳动",
    "count": 2,
    "recent": 1,
@@ -956,15 +956,15 @@
  "summary": [
   [
    "整体节奏",
-   "近 30 天共采集到 131 条「文生游戏」相关动态，环比前 30 天回落（+13%）。当前信息结构为：论文 19%、资讯 53%、开源项目 20%、社区讨论 8%。产业资讯占比过半，说明话题已从实验室走向**市场叙事阶段**，需警惕概念热度跑在真实能力之前。"
+   "近 30 天共采集到 123 条「文生游戏」相关动态，环比前 30 天回落（+19%）。当前信息结构为：论文 20%、资讯 51%、开源项目 21%、社区讨论 7%。产业资讯占比过半，说明话题已从实验室走向**市场叙事阶段**，需警惕概念热度跑在真实能力之前。"
   ],
   [
    "赛道格局",
-   "热度前三的赛道是 **引擎与工具链**（热度 100，182 条）、**Agent 自动开发**（热度 98，214 条）、**世界模型 · 可玩世界**（热度 95，153 条）。增速最快的是 **NPC 与叙事智能**（近 4 周环比 +140%）、**关卡与玩法生成**（近 4 周环比 +53%）、**Agent 自动开发**（近 4 周环比 +35%），这几条线正在吸走整个领域的注意力和资源。相对降温的是 **引擎与工具链**（-43%）、**产业与商业化**（-27%）——通常不是方向被否定，而是该环节的问题已被基本解决、话题性自然下降。"
+   "热度前三的赛道是 **引擎与工具链**（热度 100，181 条）、**Agent 自动开发**（热度 99，214 条）、**世界模型 · 可玩世界**（热度 96，153 条）。增速最快的是 **NPC 与叙事智能**（近 4 周环比 +140%）、**关卡与玩法生成**（近 4 周环比 +53%）、**Agent 自动开发**（近 4 周环比 +35%），这几条线正在吸走整个领域的注意力和资源。相对降温的是 **引擎与工具链**（-43%）、**产业与商业化**（-28%）——通常不是方向被否定，而是该环节的问题已被基本解决、话题性自然下降。"
   ],
   [
    "技术走向",
-   "路线之争上，**「直接生成画面」的世界模型路线暂时压过「生成规则与代码」的结构化路线**（热度 95 vs 78）。前者胜在演示效果炸裂，短板是可控性、可编辑性和一致性；后者产出的是真正能被开发者二次修改的资产，长期更可能进生产管线。 Agent 自动开发线近 4 周增速 +35%，是最值得盯的变量——它不生产新的生成能力，而是把已有能力串成流水线，往往是「能演示」跨越到「能出货」的那一步。 美术与 3D 资产生成热度 71，这条线商业模式最清晰（按资产/按次收费、可直接嵌入现有管线），也因此最先形成稳定营收，噪音最少。 当月高频技术词：Agent 智能体、世界模型、GPT、Claude、强化学习、开源、Unity、MCP。"
+   "路线之争上，**「直接生成画面」的世界模型路线暂时压过「生成规则与代码」的结构化路线**（热度 96 vs 78）。前者胜在演示效果炸裂，短板是可控性、可编辑性和一致性；后者产出的是真正能被开发者二次修改的资产，长期更可能进生产管线。 Agent 自动开发线近 4 周增速 +35%，是最值得盯的变量——它不生产新的生成能力，而是把已有能力串成流水线，往往是「能演示」跨越到「能出货」的那一步。 美术与 3D 资产生成热度 72，这条线商业模式最清晰（按资产/按次收费、可直接嵌入现有管线），也因此最先形成稳定营收，噪音最少。 当月高频技术词：Agent 智能体、世界模型、GPT、Claude、强化学习、开源、Unity、MCP。"
   ],
   [
    "新兴信号",
@@ -978,62 +978,6 @@
  "new_projects": [],
  "market": [
   {
-   "key": "launch",
-   "zh": "产品发布与上线",
-   "color": "#d4483b",
-   "desc": "对外宣布新产品、新版本、开放公测。数量多说明厂商在抢窗口期，但要注意区分「真的能用了」和「先发个声明」。",
-   "now": 15,
-   "prev": 25,
-   "delta": -0.4,
-   "share": 0.113,
-   "series": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    1,
-    2,
-    2,
-    3,
-    7
-   ],
-   "samples": [
-    {
-     "title": "Ramen launches Aura 1.0 to push agentic AI in game development | interview",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQemlMUENxSlcwZUlHVkpQSUhSVWptMkhaVkpleHZqMklTNEZ1ZmttNVRyeGtJRXRfOHhuRENiaEtCd1JSdWJZNFgwRDUwY3pTOGRicDJYOTdJTUc2MmZOakV3YWtFWm9RRFJKUTdTM3BGR0FwTjRCUThldUZ2U3VGc2U2SnN2Qmlud013cl9B?oc=5",
-     "source": "GamesBeat",
-     "date": "2026-09-09",
-     "heat": 63.5
-    },
-    {
-     "title": "39游戏平台官方网站全新版本上线，AI智能推荐与玩家共创引领足球社区新潮流- 体坛网_体坛+",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xS2dsZjdXLWJlekhBVmZDUjdxampZeFpBLXpJaVZXUGJCNERvUWpXclZrOVVldFVKUmtiQUtxbXFkdDVQYzE2aUk2QQ?oc=5",
-     "source": "ttplus.cn",
-     "date": "2026-09-09",
-     "heat": 61.9
-    },
-    {
-     "title": "篮彩量彩客登录网站发布全新跨终端游戏平台 强化AI与生态融合",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92R1ZBUkFFV0ZvWGM2QnltVUQwRGpxTUJheE53U1JZOFdOUW1Xc1JXc1Y3M193V2N6SmdCZEI1bEgtUFJpeW1hUFdDTU9uZ29yM3BuX29YNA?oc=5",
-     "source": "ttplus.cn",
-     "date": "2026-09-09",
-     "heat": 61.2
-    },
-    {
-     "title": "Higgsfield 推出基于 GPT-6 Astra 的 Games 2.0，一句提示生成开放世界游戏",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGpUdHZZMHhlaG5NSkhWLXZycmU1czBTR0pIZ1plVWVFWmhDWGtHVkVUOElYWFpxUHIzUnpENWw4Z0lQVk1iVHFweXRrMm5vZXFWTlFZbG9ka29venhkUkpSYjJkUVNVRkhrMjBqYW9hQXdGVFZTSG9FbmtabmVYODY1aw?oc=5",
-     "source": "Pasquale Pillitteri",
-     "date": "2026-09-08",
-     "heat": 59.5
-    }
-   ]
-  },
-  {
    "key": "funding",
    "zh": "融资与资本动作",
    "color": "#e0862a",
@@ -1041,7 +985,7 @@
    "now": 12,
    "prev": 14,
    "delta": -0.143,
-   "share": 0.09,
+   "share": 0.096,
    "series": [
     0,
     0,
@@ -1064,28 +1008,84 @@
      "url": "http://arxiv.org/abs/2608.25518v1",
      "source": "arXiv",
      "date": "2026-08-26",
-     "heat": 86.8
+     "heat": 86.6
     },
     {
      "title": "GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?",
      "url": "http://arxiv.org/abs/2608.21833v1",
      "source": "arXiv",
      "date": "2026-08-22",
-     "heat": 65.9
+     "heat": 65.7
     },
     {
      "title": "WorldMind: Decoupled Game World Model for State-Aware NPC Behavior",
      "url": "http://arxiv.org/abs/2608.21439v1",
      "source": "arXiv",
      "date": "2026-08-18",
-     "heat": 59.2
+     "heat": 59.0
     },
     {
      "title": "利好！利好！字节跳动又搞大动作了！字节跳动将推出实时空间视频生成AI 模型，看来Al视频方向行情还会继续，​消息来源是科创板日报，在9月8日上午11点02分发布电报，字节基于现有电影级视频生成模型Seedance，打造能用于直播、短剧、游戏的交互式虚拟世界",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAySFF4VW9ZbzdTcmQ1ZHkwMnozLWlHazMzRVVjQW4wa200V3loY3VORE5IUWc2dVAtZ2YwOS00QUR2Z3RicUdwS1VIVG1vVGdad3lleWozak1sOTUyUzJWSDhJNA?oc=5",
      "source": "新浪网",
      "date": "2026-09-08",
-     "heat": 58.1
+     "heat": 57.7
+    }
+   ]
+  },
+  {
+   "key": "launch",
+   "zh": "产品发布与上线",
+   "color": "#d4483b",
+   "desc": "对外宣布新产品、新版本、开放公测。数量多说明厂商在抢窗口期，但要注意区分「真的能用了」和「先发个声明」。",
+   "now": 11,
+   "prev": 25,
+   "delta": -0.56,
+   "share": 0.088,
+   "series": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    3,
+    3
+   ],
+   "samples": [
+    {
+     "title": "Ramen launches Aura 1.0 to push agentic AI in game development | interview",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQemlMUENxSlcwZUlHVkpQSUhSVWptMkhaVkpleHZqMklTNEZ1ZmttNVRyeGtJRXRfOHhuRENiaEtCd1JSdWJZNFgwRDUwY3pTOGRicDJYOTdJTUc2MmZOakV3YWtFWm9RRFJKUTdTM3BGR0FwTjRCUThldUZ2U3VGc2U2SnN2Qmlud013cl9B?oc=5",
+     "source": "GamesBeat",
+     "date": "2026-09-09",
+     "heat": 63.0
+    },
+    {
+     "title": "Higgsfield 推出基于 GPT-6 Astra 的 Games 2.0，一句提示生成开放世界游戏",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGpUdHZZMHhlaG5NSkhWLXZycmU1czBTR0pIZ1plVWVFWmhDWGtHVkVUOElYWFpxUHIzUnpENWw4Z0lQVk1iVHFweXRrMm5vZXFWTlFZbG9ka29venhkUkpSYjJkUVNVRkhrMjBqYW9hQXdGVFZTSG9FbmtabmVYODY1aw?oc=5",
+     "source": "Pasquale Pillitteri",
+     "date": "2026-09-08",
+     "heat": 59.0
+    },
+    {
+     "title": "利好！利好！字节跳动又搞大动作了！字节跳动将推出实时空间视频生成AI 模型，看来Al视频方向行情还会继续，​消息来源是科创板日报，在9月8日上午11点02分发布电报，字节基于现有电影级视频生成模型Seedance，打造能用于直播、短剧、游戏的交互式虚拟世界",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAySFF4VW9ZbzdTcmQ1ZHkwMnozLWlHazMzRVVjQW4wa200V3loY3VORE5IUWc2dVAtZ2YwOS00QUR2Z3RicUdwS1VIVG1vVGdad3lleWozak1sOTUyUzJWSDhJNA?oc=5",
+     "source": "新浪网",
+     "date": "2026-09-08",
+     "heat": 57.7
+    },
+    {
+     "title": "国联民生证券:《传媒行业周报20260905：OpenAI发布GPT-6 Astra，传媒2026中报游戏、营销贡献增长动力》",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XOW9PcnU0bEFOOEdmOEhzZ091aTE5LWk0U1VWVkUteVBQdXYwdS1oeS01Y21DMWpBd3paSDFOVTliNHhGRFFWSklkV1lTYnpB?oc=5",
+     "source": "发现报告",
+     "date": "2026-09-06",
+     "heat": 53.1
     }
    ]
   },
@@ -1097,7 +1097,7 @@
    "now": 9,
    "prev": 2,
    "delta": 3.5,
-   "share": 0.068,
+   "share": 0.072,
    "series": [
     0,
     0,
@@ -1120,28 +1120,28 @@
      "url": "https://github.com/grandgaming9321-prog/reality-engine",
      "source": "GitHub",
      "date": "2026-09-08",
-     "heat": 65.5
+     "heat": 65.3
     },
     {
      "title": "EricSun0218/OpenGameAgent",
      "url": "https://github.com/EricSun0218/OpenGameAgent",
      "source": "GitHub",
      "date": "2026-09-08",
-     "heat": 62.5
+     "heat": 62.2
     },
     {
      "title": "4thfever/cultivation-world-simulator",
      "url": "https://github.com/4thfever/cultivation-world-simulator",
      "source": "GitHub",
      "date": "2026-08-16",
-     "heat": 62.2
+     "heat": 62.1
     },
     {
      "title": "游戏生成工程化！北大开源：AI游戏工厂来了！",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EbjlGM3p4bEdBdnpaTDd0NGNuVkpxWTJFUmstN3U5QVl0Vi1Sc2RBaXlidFhJTTJsLWZ2Z3U5YlA4VWRLdW9nZnJlV1NVWEYzT0R0ZGY2OTRqN2t5VTRjSDJ5UmVtajJNOEowWFF3Tk0wWFA1RWl2ZA?oc=5",
      "source": "新浪财经",
      "date": "2026-09-05",
-     "heat": 58.8
+     "heat": 58.4
     }
    ]
   },
@@ -1153,7 +1153,7 @@
    "now": 6,
    "prev": 2,
    "delta": 2.0,
-   "share": 0.045,
+   "share": 0.048,
    "series": [
     0,
     0,
@@ -1176,84 +1176,28 @@
      "url": "https://github.com/CoplayDev/unity-mcp",
      "source": "GitHub",
      "date": "2026-09-06",
-     "heat": 85.6
+     "heat": 85.4
     },
     {
      "title": "IvanMurzak/Unity-MCP",
      "url": "https://github.com/IvanMurzak/Unity-MCP",
      "source": "GitHub",
      "date": "2026-09-04",
-     "heat": 79.2
+     "heat": 79.0
     },
     {
      "title": "FunplayAI/funplay-unity-mcp",
      "url": "https://github.com/FunplayAI/funplay-unity-mcp",
      "source": "GitHub",
      "date": "2026-09-07",
-     "heat": 64.5
+     "heat": 64.3
     },
     {
      "title": "CoplayDev/coplay-unity-plugin",
      "url": "https://github.com/CoplayDev/coplay-unity-plugin",
      "source": "GitHub",
      "date": "2026-09-02",
-     "heat": 59.6
-    }
-   ]
-  },
-  {
-   "key": "community",
-   "zh": "社区与开发者运营",
-   "color": "#7a5cf0",
-   "desc": "展会、大会、教程、开发者活动。技术同质化之后，竞争就从模型能力转移到开发者心智，这一项在那之后才真正开始重要。",
-   "now": 6,
-   "prev": 8,
-   "delta": -0.25,
-   "share": 0.045,
-   "series": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    2,
-    1,
-    1,
-    0,
-    2
-   ],
-   "samples": [
-    {
-     "title": "39游戏平台官方网站全新版本上线，AI智能推荐与玩家共创引领足球社区新潮流- 体坛网_体坛+",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xS2dsZjdXLWJlekhBVmZDUjdxampZeFpBLXpJaVZXUGJCNERvUWpXclZrOVVldFVKUmtiQUtxbXFkdDVQYzE2aUk2QQ?oc=5",
-     "source": "ttplus.cn",
-     "date": "2026-09-09",
-     "heat": 61.9
-    },
-    {
-     "title": "AG亚洲游戏发布全新AIGC工作流工具，赋能开发者和企业高效创新-体坛网_体坛+",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZSkJ2ZDF0SURzVTJaWFFXdUJ3aU5CRDdpY0Z6QkdCSmE2d1RMdUgySzlza3Zsak9GbGs5T2t3R0VTWTlVX2xGVGMwQQ?oc=5",
-     "source": "ttplus.cn",
-     "date": "2026-09-08",
-     "heat": 57.9
-    },
-    {
-     "title": "越用AI，游戏开发者越焦虑：54%担心被替代，37%称工作流没变快，就算变快也没有变好",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EdFdLUjl4ZEp3QUd1aWR0aUNtSFZKcGRLZWgwUzJRTXZRbDFCSVJ6UkJkd1NNSlZLRUNGQnM2ZGszZUNxbHZCMmVYdHkydw?oc=5",
-     "source": "36 Kr",
-     "date": "2026-08-20",
-     "heat": 39.5
-    },
-    {
-     "title": "AI能为游戏行业带来什么价值？ChinaJoy2026现场对话阿里云&TapTap制造解锁游戏AI全新玩法",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Yb0Iyb3lwaUwwdnloTUJLanZpQkZMWjhvYWI3Y3J4WmRYcjNoTXJEODlBNlotVllST3p4TkdrdTF4RnAzTHBaUjhaNHN0NGNfVmhv?oc=5",
-     "source": "36Kr",
-     "date": "2026-08-12",
-     "heat": 36.3
+     "heat": 59.5
     }
    ]
   },
@@ -1262,10 +1206,10 @@
    "zh": "成本与效率叙事",
    "color": "#4a8c8c",
    "desc": "主打降本、提效、免费、便宜。这是技术从「能用」走向「用得起」的标志，也常常意味着该环节竞争已经很激烈。",
-   "now": 6,
+   "now": 5,
    "prev": 4,
-   "delta": 0.5,
-   "share": 0.045,
+   "delta": 0.25,
+   "share": 0.04,
    "series": [
     0,
     0,
@@ -1280,7 +1224,7 @@
     0,
     2,
     1,
-    2
+    1
    ],
    "samples": [
     {
@@ -1288,28 +1232,28 @@
      "url": "https://github.com/IvanMurzak/Unity-MCP",
      "source": "GitHub",
      "date": "2026-09-04",
-     "heat": 79.2
-    },
-    {
-     "title": "AI大模型落地产业一线：真人AG平台游戏加速智能化转型",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kVUs5ay1vT3RrMkRyZmx2RDUwVDBidzdYbWVZYml1aWlMV1ZoamVtcEhlMl9mM3ltTWxmV194Z2ItWUhrMHhNS3ZtX01nU3Ju?oc=5",
-     "source": "ttplus.cn",
-     "date": "2026-09-09",
-     "heat": 62.0
+     "heat": 79.0
     },
     {
      "title": "国信证券:《传媒互联网周报：模型降本与 Agent 加速演进，关注 AI 应用及游戏机会》",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OeTk3bVRkR092VlhKWVh6dW8yUkFVUHhDd01GQnhsVUpCV0JDWkY0QWZ5TzdRcHJGNlZUTFFWdVdRMkZNTlZiTmVQOEVSbGlh?oc=5",
      "source": "发现报告",
      "date": "2026-09-07",
-     "heat": 56.3
+     "heat": 55.8
     },
     {
      "title": "腾讯游戏公共技术线首次整体亮相gamescom，以全链路自研AI技术加速游戏工业创新",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05ZFBTSld6LVB4X0U3VHh4bmlxbDloaGFFTGs4WEtTbkgtdWdiUHpiMDBhRlVCbWJWM3RCTWFiWWFkY2U2SGFRRE9KZTVjV0k?oc=5",
      "source": "机核GCORES",
      "date": "2026-08-28",
-     "heat": 48.0
+     "heat": 47.8
+    },
+    {
+     "title": "I made my own video games with Meta’s new free AI vibe-coding app — and I didn’t expect to have this much fun",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWhMQzhYNS04WDNMd2lGcjNaOUluS1lBanZLcWtlMWp3RXRKWlpBUkdiREhzVVdleGxobHZzRjdjNUwyaW50aUhubllWV1ZyZklKQTU1aW9zUkVYY0hyajF0YVFzUVVURmZNbW1SOFZIZjAwa3JLMUZWMXdMczB1cHBVN2llLVpkdUtlN0k5RDFBWjJJZ3BrQ0tDVnlrcmlTT0thbk9objNHOFJxWjFjajJGUmJhTk9Oc3F2YlRBSTJoRnZYRWQ3WkVncWdKQW8?oc=5",
+     "source": "Tom's Guide",
+     "date": "2026-08-27",
+     "heat": 37.4
     }
    ]
   },
@@ -1321,7 +1265,7 @@
    "now": 5,
    "prev": 11,
    "delta": -0.545,
-   "share": 0.038,
+   "share": 0.04,
    "series": [
     0,
     0,
@@ -1344,28 +1288,84 @@
      "url": "https://github.com/Scottcjn/legend-of-elya-n64",
      "source": "GitHub",
      "date": "2026-08-30",
-     "heat": 58.4
+     "heat": 58.2
     },
     {
      "title": "From Generation to Simulation: How Far Are World Models from Being True Simulators?",
      "url": "http://arxiv.org/abs/2608.23070v1",
      "source": "arXiv",
      "date": "2026-08-24",
-     "heat": 56.7
+     "heat": 56.5
     },
     {
      "title": "GPU-Accelerated Astrodynamics World Models for Spacecraft Rendezvous and Proximity Operations",
      "url": "http://arxiv.org/abs/2609.03067v1",
      "source": "arXiv",
      "date": "2026-09-03",
-     "heat": 46.2
+     "heat": 45.8
     },
     {
      "title": "Can Video World Models Track Unobserved World States?",
      "url": "http://arxiv.org/abs/2608.30692v1",
      "source": "arXiv",
      "date": "2026-08-31",
-     "heat": 43.3
+     "heat": 43.0
+    }
+   ]
+  },
+  {
+   "key": "community",
+   "zh": "社区与开发者运营",
+   "color": "#7a5cf0",
+   "desc": "展会、大会、教程、开发者活动。技术同质化之后，竞争就从模型能力转移到开发者心智，这一项在那之后才真正开始重要。",
+   "now": 4,
+   "prev": 8,
+   "delta": -0.5,
+   "share": 0.032,
+   "series": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    1,
+    1,
+    0,
+    0
+   ],
+   "samples": [
+    {
+     "title": "越用AI，游戏开发者越焦虑：54%担心被替代，37%称工作流没变快，就算变快也没有变好",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EdFdLUjl4ZEp3QUd1aWR0aUNtSFZKcGRLZWgwUzJRTXZRbDFCSVJ6UkJkd1NNSlZLRUNGQnM2ZGszZUNxbHZCMmVYdHkydw?oc=5",
+     "source": "36 Kr",
+     "date": "2026-08-20",
+     "heat": 39.3
+    },
+    {
+     "title": "AI能为游戏行业带来什么价值？ChinaJoy2026现场对话阿里云&TapTap制造解锁游戏AI全新玩法",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Yb0Iyb3lwaUwwdnloTUJLanZpQkZMWjhvYWI3Y3J4WmRYcjNoTXJEODlBNlotVllST3p4TkdrdTF4RnAzTHBaUjhaNHN0NGNfVmhv?oc=5",
+     "source": "36Kr",
+     "date": "2026-08-12",
+     "heat": 36.2
+    },
+    {
+     "title": "AI游戏普及，用户即开发者……‘我制作的游戏我来玩’的时代",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02eEFqYWlLQ3BzeU9XbThibzh6bjlhTmQzN09pUzhIOThNQ2tMRDRaYUpJbWRKa1BqNFF5bnVETGpfc0tTamNvR2duQi05NVlVQVlCQTFMZFc2NTA?oc=5",
+     "source": "亚洲日报",
+     "date": "2026-08-24",
+     "heat": 34.4
+    },
+    {
+     "title": "在Gamescom开发者大会进行的一项调查强调了人工智能对团队组织和生产力的潜在影响",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPSXBKa01MMURzV0lRS21wejN6T0Z0cWJmTmV5eUNxRTBtaEh5eUprQXdzalV1MnR4eEVlaTlwQkFWUWVZd1Mzd3lzSEpGZlI4WGdLQ2JoNmNJRWlSUmc?oc=5",
+     "source": "WN Hub",
+     "date": "2026-08-11",
+     "heat": 26.8
     }
    ]
   }
@@ -1373,15 +1373,15 @@
  "market_summary": [
   [
    "叙事主导权",
-   "近 30 天 133 条动态中，「**产品发布与上线**」是最密集的动作类型（15 条，占 11%）。动作分布依次为 产品发布与上线 15 条、融资与资本动作 12 条、开源与生态建设 9 条、引擎集成与工具化 6 条。**发布声量明显压过开源与引擎集成**，说明厂商此刻的主要目标是抢叙事位置、占住品类心智，而不是把手里的东西真正铺进开发流程——这个阶段看到的 demo 数量，通常远多于能被第三方复现的数量。"
+   "近 30 天 125 条动态中，「**融资与资本动作**」是最密集的动作类型（12 条，占 10%）。动作分布依次为 融资与资本动作 12 条、产品发布与上线 11 条、开源与生态建设 9 条、引擎集成与工具化 6 条。发布与开源两条线相对均衡，厂商一边发产品一边放代码，属于竞争还没定型、各方都在试探的时期。"
   ],
   [
    "打法切换",
-   "环比前 30 天，明显升温的打法是 **开源与生态建设**（2 → 9 条，+350%）、**引擎集成与工具化**（2 → 6 条，+200%）、**成本与效率叙事**（4 → 6 条，+50%）。打法切换往往比技术进展更能反映行业真实状态：厂商会把资源投到当下最有效的那个环节上。 降温的是 **概念营销与预期管理**（11 → 5 条）、**产品发布与上线**（25 → 15 条）。 **成本与效率叙事在增加**，这是竞争进入白热化的典型标志——当各家能力逐渐拉平，宣传重点就会从「我能做什么」转向「我用更少的钱做同样的事」。 社区与开发者运营有 6 条，说明头部玩家已经开始抢开发者心智，而不只是抢媒体版面。"
+   "环比前 30 天，明显升温的打法是 **开源与生态建设**（2 → 9 条，+350%）、**引擎集成与工具化**（2 → 6 条，+200%）。打法切换往往比技术进展更能反映行业真实状态：厂商会把资源投到当下最有效的那个环节上。 降温的是 **产品发布与上线**（25 → 11 条）、**概念营销与预期管理**（11 → 5 条）。 **成本与效率叙事在增加**，这是竞争进入白热化的典型标志——当各家能力逐渐拉平，宣传重点就会从「我能做什么」转向「我用更少的钱做同样的事」。 社区与开发者运营有 4 条，说明头部玩家已经开始抢开发者心智，而不只是抢媒体版面。"
   ],
   [
    "判断与提醒",
-   "概念营销类表述仅占 4%，本期动态以具体产品动作和工程产出为主，信息质量较高——这种情况下榜单前列的条目值得逐条点开看。 融资与发布同步活跃（各 12 / 15 条），资本和产品在互相催化，但经验上这个组合也最容易在 12~18 个月后迎来一轮洗牌：钱进得快，验证也来得快。 开源动作有 9 条，是本期最可信的一类信号——代码一旦公开，能力边界就没法再靠话术修饰，观察这类项目比读通稿更有效率。 声量最高的产品是 **Unity**（游戏引擎，热度指数 100，近 60 天 23 条），它的动向基本可以代表本期的行业焦点。"
+   "概念营销类表述仅占 4%，本期动态以具体产品动作和工程产出为主，信息质量较高——这种情况下榜单前列的条目值得逐条点开看。 融资与发布同步活跃（各 12 / 11 条），资本和产品在互相催化，但经验上这个组合也最容易在 12~18 个月后迎来一轮洗牌：钱进得快，验证也来得快。 开源动作有 9 条，是本期最可信的一类信号——代码一旦公开，能力边界就没法再靠话术修饰，观察这类项目比读通稿更有效率。 声量最高的产品是 **Unity**（游戏引擎，热度指数 100，近 60 天 23 条），它的动向基本可以代表本期的行业焦点。"
   ]
  ],
  "site_item_note": "按热度收录前 250 条（线上精简版，本地版为全量）",
@@ -1397,55 +1397,55 @@
   "ac78b8105401f7f4",
   "81d8596ae387d422",
   "9d98381403f834df",
-  "fa154f817efd80a1",
   "d4b0fa9a9849ddfd",
+  "fa154f817efd80a1",
   "28c4f403e76bc9aa",
-  "cf1e61ae6da3f52f",
   "03b89d77380f58f3",
-  "59fdbfe590d1726f",
+  "cf1e61ae6da3f52f",
   "c12fa39e2873b7d4",
+  "59fdbfe590d1726f",
   "35606d42fe2e0b81",
-  "f6bb7fbdfb437c1e",
   "ef45cc47182cef7e",
   "fdae6b12b9f4f651",
-  "c9c67a62133be160",
-  "17c2183a25886867",
+  "f6bb7fbdfb437c1e",
   "f9ca08830edf8f3f",
-  "7c6c7b5f7b3c508d",
+  "c9c67a62133be160",
   "e9c5cf73dab13100",
+  "afefa644ae2be4be",
   "b406838b70c6efc6",
   "2677b2d4de16aa32",
-  "afefa644ae2be4be",
-  "dc99c9012c03ef82",
   "becadeb8ae9553c3",
-  "688f50cef8da514b",
   "8c1ddda863744511",
   "ecc41c3a786ba9ce",
   "3580c5f3a9afc5bc",
-  "c60b081b1cfea782",
-  "f13fe568e048929b",
   "4a3dc13b1d32b953",
+  "c60b081b1cfea782",
   "597bb0d79786783d",
-  "f12dbbc8d18bc1df",
   "6fdb2a4f4e087e76",
-  "3076663260930496",
+  "f12dbbc8d18bc1df",
   "eb22bad48e225102",
-  "a5a10ac48701ba44",
+  "3076663260930496",
   "4d12dc4f6a161809",
-  "3e9898cd1d30f7da",
   "f3e3f82214f94fae",
+  "3e9898cd1d30f7da",
   "51ae69b1e5438b40",
-  "e6eac88699677ef1",
   "70a9cc572f3efd91",
-  "40c9aebf4faabf1a",
-  "6253b31871fb235f",
   "6e06cb84df8a13df",
-  "e577fac3da66853a",
+  "40c9aebf4faabf1a",
+  "e6eac88699677ef1",
+  "6253b31871fb235f",
   "d62752bdae2f9797",
   "3a68650c0b72d7b9",
+  "e577fac3da66853a",
   "33b98f78f7f1759c",
   "94a947769aefc426",
-  "8dcb4ee7546c14b3"
+  "8dcb4ee7546c14b3",
+  "6484631da66c2328",
+  "b672ffc730ec74b8",
+  "4880b6561dfdf22a",
+  "488a7f43da970348",
+  "2a007163860cfa8b",
+  "1660271987186b69"
  ],
  "fetch_log": [
   {
