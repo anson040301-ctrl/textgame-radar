@@ -5,9 +5,9 @@
   "vendor": "Roblox",
   "track": "engine_tool",
   "color": "#2b7fbf",
-  "count": 68,
-  "recent": 47,
-  "heat": 1697.5,
+  "count": 70,
+  "recent": 49,
+  "heat": 1803.5,
   "momentum": -0.235,
   "series": [
    1,
@@ -23,11 +23,11 @@
    1,
    1,
    11,
-   0
+   2
   ],
   "src_types": {
    "community": 2,
-   "news": 66
+   "news": 68
   },
   "tracks": [
    "engine_tool",
@@ -47,11 +47,11 @@
   "summary": [
    [
     "热点概括",
-    "近 30 天有 13 条动态，前 30 天 34 条，环比减少 21 条；更早（60 天以前）还有 21 条，说明这是个持续被跟踪的对象。来源以**产业资讯**为主（13 条，占 100%）。**信息来源高度单一**，目前只在「产业资讯」这一个渠道被讨论，量虽不少但视角单一，容易高估或低估它在其他环节的实际进展，最好交叉看看另外几条线有没有对应的动静。 主要涉及的赛道是 **引擎与工具链** 与 **产业与商业化**。 其中**对外发新版 / 上线新能力** 3 条。"
+    "近 30 天有 15 条动态，前 30 天 34 条，环比减少 19 条；更早（60 天以前）还有 21 条，说明这是个持续被跟踪的对象。来源以**产业资讯**为主（15 条，占 100%）。**信息来源高度单一**，目前只在「产业资讯」这一个渠道被讨论，量虽不少但视角单一，容易高估或低估它在其他环节的实际进展，最好交叉看看另外几条线有没有对应的动静。 主要涉及的赛道是 **引擎与工具链** 与 **产业与商业化**。 其中**对外发新版 / 上线新能力** 3 条。"
    ],
    [
     "最值得看的一条",
-    "最值得看的是一条资讯：**Roblox is making it easier to build games with AI — and play them outs**，Roblox is making it easier to build games with AI — and play them outside Roblox techcrunch.com。"
+    "最值得看的是一条资讯：**Roblox adds browser play, offline modes and AI game creation**，Roblox adds browser play, offline modes and AI game creation tbreak.com。"
    ],
    [
     "怎么解读",
@@ -60,12 +60,21 @@
   ],
   "items": [
    {
+    "title": "Roblox adds browser play, offline modes and AI game creation",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96UlBaYmxSSmF1NDVqWmpnYWxzS3ExX2ZPUUt3TG04UnlQclk5cWNVb1VwRU51UEFxWWJfNUVtTnZuTzNnbGFXREFXX1BiRUVYSlYyMzd6ZUxKcW42OHNTZjdLTEh0bUFhLWhV?oc=5",
+    "source": "tbreak.com",
+    "source_type": "news",
+    "date": "2026-09-14",
+    "heat": 67.3,
+    "summary": "Roblox adds browser play, offline modes and AI game creation tbreak.com"
+   },
+   {
     "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONjdtYlcySnVSdXpNbmR4bGpkVXNraDlLdzBTeWt3T2hCMnFFTHY0N2gwaVdjUVdhQzB2RXdxZDM3cHBkOV83bkZ6cm50aE91NmtUazJzLTUyaG0ySVdvVVFUZmx3TFdTNFd0QkJFelZFcDFIX2c5RGxHa0sxaXo5aVFHdnlqNmxhMEdFdXVJc1Yxc0pEOEhPVUZZaHV2RkJpaEhDSHZpeUV3amJuUWRVd3ZtZw?oc=5",
     "source": "techcrunch.com",
     "source_type": "news",
     "date": "2026-09-12",
-    "heat": 65.9,
+    "heat": 63.6,
     "summary": "Roblox is making it easier to build games with AI — and play them outside Roblox techcrunc"
    },
    {
@@ -74,8 +83,17 @@
     "source": "cnbeta.com.tw",
     "source_type": "news",
     "date": "2026-09-12",
-    "heat": 64.6,
+    "heat": 62.2,
     "summary": "Roblox进一步开放AI游戏创作：自然语言即可做游戏 可脱离Roblox独立运行 cnbeta.com.tw"
+   },
+   {
+    "title": "Watch Roblox CEO: AI Will Create More Game Makers",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWG9Pa284UmpTdUZ1WGxKQ25GQlg4N3MzLXhuWF9QQldJS3d4M2h2S0pLUFlKanJzb1VUbGdNRnhrcXJBaFBhTUJhM0VTSEY3UEZNTHRxSkJiRjdxSGpZd3dyZllQUEZOTG8xbVRQSDJKWXJQRlJDRGxDN2k4b2ViRU1FaDRya3dObEJBLS1pNlNtcVQ1SWZYUS04bmY2dw?oc=5",
+    "source": "Bloomberg.com",
+    "source_type": "news",
+    "date": "2026-09-15",
+    "heat": 61.9,
+    "summary": "Watch Roblox CEO: AI Will Create More Game Makers Bloomberg.com"
    },
    {
     "title": "Roblox Expands AI Game Tools and Plans Releases Beyond Its Platform",
@@ -83,26 +101,8 @@
     "source": "Межа. Новини України.",
     "source_type": "news",
     "date": "2026-09-12",
-    "heat": 63.9,
+    "heat": 61.5,
     "summary": "Roblox Expands AI Game Tools and Plans Releases Beyond Its Platform Межа. Новини України."
-   },
-   {
-    "title": "Roblox expands AI game creation and plans standalone apps",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyTkpIMDJiT1hpbnBoYnpEYTFqZW1KcVZGdnY1WE53WWVpV3RZVG53SWdPdnJldWg3VW1UMm1xM2dnbmhNbmlkWE5wNkpQVUFvdk5TS0U3TGNtM2dYVjlTTU52WGpZWUZBbFpN?oc=5",
-    "source": "tbreak.com",
-    "source_type": "news",
-    "date": "2026-09-12",
-    "heat": 63.8,
-    "summary": "Roblox expands AI game creation and plans standalone apps tbreak.com"
-   },
-   {
-    "title": "Roblox: We're Allowing Offline Play, In-Browser Gaming, and Gen AI Game Dev",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTVZYQnRLakZDMXZLYUp2ZVN5cDEydG83cE1VbWpxY05MaXZIQnUwa0xRV0VJU2hKbElCZ1phV053MndRSndVaVNfc3dzMlVvcEhYeTNvR0NXMDlqenlhVWFzUVFFR2xxSUhBTzg4Q211S005UHpSdXJvelhYMHl4SUhuNmR2d3ZRNlpoMTdzMGtFWjI4MUVVQXBTOTJ2NHM?oc=5",
-    "source": "PCMag",
-    "source_type": "news",
-    "date": "2026-09-11",
-    "heat": 62.5,
-    "summary": "Roblox: We're Allowing Offline Play, In-Browser Gaming, and Gen AI Game Dev PCMag"
    }
   ],
   "heat_index": 100.0
@@ -115,7 +115,7 @@
   "color": "#2b7fbf",
   "count": 54,
   "recent": 22,
-  "heat": 1280.8,
+  "heat": 1281.0,
   "momentum": 0.143,
   "series": [
    0,
@@ -161,11 +161,11 @@
    ],
    [
     "最值得看的一条",
-    "最值得看的是一条开源项目：**CoplayDev/unity-mcp**（14184 星），Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, 。"
+    "最值得看的是一条开源项目：**CoplayDev/unity-mcp**（14220 星），Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, 。"
    ],
    [
     "怎么解读",
-    "**声量温和上升**（+14%），属于正常的热度爬升，没有出现突发性的集中讨论。 常与它一起出现的是 **Claude**、**MCP**、**Cursor**、**GPT**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 6 天前，话题仍在持续。"
+    "**声量温和上升**（+14%），属于正常的热度爬升，没有出现突发性的集中讨论。 常与它一起出现的是 **Claude**、**MCP**、**Cursor**、**GPT**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 7 天前，话题仍在持续。"
    ]
   ],
   "items": [
@@ -175,7 +175,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 81.6,
+    "heat": 80.8,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -184,7 +184,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-04",
-    "heat": 75.7,
+    "heat": 74.9,
     "summary": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for"
    },
    {
@@ -193,17 +193,17 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-08-31",
-    "heat": 71.5,
+    "heat": 70.9,
     "summary": "A wonderful list of Game Development resources. · 2d-game-framework ai-agent awesome-list "
    },
    {
-    "title": "FunplayAI/funplay-unity-mcp",
-    "url": "https://github.com/FunplayAI/funplay-unity-mcp",
-    "source": "GitHub",
-    "source_type": "repo",
-    "date": "2026-09-07",
-    "heat": 60.1,
-    "summary": "The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input "
+    "title": "团结引擎2.0发布，Unity中国以AI智能体重构游戏开发工作流",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43a1d6UzI1Y1RjNTNtbVpGUGx5cDkzaUZpZ1JqYnhOalRwLVFRbHZ4WmtsSmpURXZGQ0s1cm9IWVd3eEhma21EWUhMeWk4ekRqNmlMYWNOTWRoa09GeWww?oc=5",
+    "source": "科技行者",
+    "source_type": "news",
+    "date": "2026-07-28",
+    "heat": 65.9,
+    "summary": "团结引擎2.0发布，Unity中国以AI智能体重构游戏开发工作流 techwalker.com"
    },
    {
     "title": "Yuan-ManX/ai-game-devtools",
@@ -215,7 +215,7 @@
     "summary": "Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Dis"
    }
   ],
-  "heat_index": 75.5
+  "heat_index": 71.0
  },
  {
   "name": "GPT",
@@ -225,7 +225,7 @@
   "color": "#7a5cf0",
   "count": 23,
   "recent": 11,
-  "heat": 875.5,
+  "heat": 863.0,
   "momentum": 1.5,
   "series": [
    1,
@@ -271,11 +271,11 @@
    ],
    [
     "最值得看的一条",
-    "最值得看的是一条开源项目：**CoplayDev/unity-mcp**（14184 星），Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, 。"
+    "最值得看的是一条开源项目：**CoplayDev/unity-mcp**（14220 星），Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, 。"
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Gemini**、**Unity**、**MCP**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 6 天前，话题仍在持续。"
+    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Gemini**、**Unity**、**MCP**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 7 天前，话题仍在持续。"
    ]
   ],
   "items": [
@@ -285,7 +285,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 81.6,
+    "heat": 80.8,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -294,7 +294,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-04",
-    "heat": 75.7,
+    "heat": 74.9,
     "summary": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for"
    },
    {
@@ -303,7 +303,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-03",
-    "heat": 58.8,
+    "heat": 58.1,
     "summary": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 27"
    },
    {
@@ -312,7 +312,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 56.6,
+    "heat": 56.0,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    },
    {
@@ -325,7 +325,7 @@
     "summary": "I built OpenClaw plugins for the three major game engines. The AI agent controls the edito"
    }
   ],
-  "heat_index": 51.6
+  "heat_index": 47.9
  },
  {
   "name": "Claude",
@@ -335,7 +335,7 @@
   "color": "#7a5cf0",
   "count": 47,
   "recent": 12,
-  "heat": 792.3,
+  "heat": 784.6,
   "momentum": 0.714,
   "series": [
    0,
@@ -380,11 +380,11 @@
    ],
    [
     "最值得看的一条",
-    "最值得看的是一条开源项目：**CoplayDev/unity-mcp**（14184 星），Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, 。"
+    "最值得看的是一条开源项目：**CoplayDev/unity-mcp**（14220 星），Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, 。"
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +71%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Unity**、**MCP**、**Cursor**、**GPT**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 5 天前，话题仍在持续。"
+    "**声量在明显上升**（周提及动能 +71%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Unity**、**MCP**、**Cursor**、**GPT**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 6 天前，话题仍在持续。"
    ]
   ],
   "items": [
@@ -394,7 +394,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 81.6,
+    "heat": 80.8,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -403,7 +403,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-04",
-    "heat": 75.7,
+    "heat": 74.9,
     "summary": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for"
    },
    {
@@ -412,7 +412,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 68.9,
+    "heat": 67.9,
     "summary": "Autonomous text-to-game pipeline for Godot, powered by Claude Code,Codex,Opencode · ai-age"
    },
    {
@@ -421,7 +421,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-07",
-    "heat": 60.1,
+    "heat": 59.2,
     "summary": "The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input "
    },
    {
@@ -430,11 +430,11 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-03",
-    "heat": 58.8,
+    "heat": 58.1,
     "summary": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 27"
    }
   ],
-  "heat_index": 46.7
+  "heat_index": 43.5
  },
  {
   "name": "MCP",
@@ -444,7 +444,7 @@
   "color": "#7a5cf0",
   "count": 15,
   "recent": 8,
-  "heat": 481.4,
+  "heat": 475.8,
   "momentum": 1.5,
   "series": [
    0,
@@ -488,11 +488,11 @@
    ],
    [
     "最值得看的一条",
-    "最值得看的是一条开源项目：**CoplayDev/unity-mcp**（14184 星），Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, 。"
+    "最值得看的是一条开源项目：**CoplayDev/unity-mcp**（14220 星），Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, 。"
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Unity**、**Cursor**、**GPT**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 5 天前，话题仍在持续。"
+    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Unity**、**Cursor**、**GPT**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 6 天前，话题仍在持续。"
    ]
   ],
   "items": [
@@ -502,7 +502,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 81.6,
+    "heat": 80.8,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -511,7 +511,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-04",
-    "heat": 75.7,
+    "heat": 74.9,
     "summary": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for"
    },
    {
@@ -520,7 +520,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 60.4,
+    "heat": 59.4,
     "summary": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 · agent-framework ai-agent ai-simulati"
    },
    {
@@ -529,7 +529,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-07",
-    "heat": 60.1,
+    "heat": 59.2,
     "summary": "The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input "
    },
    {
@@ -538,11 +538,11 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-03",
-    "heat": 58.8,
+    "heat": 58.1,
     "summary": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 27"
    }
   ],
-  "heat_index": 28.4
+  "heat_index": 26.4
  },
  {
   "name": "腾讯",
@@ -552,7 +552,7 @@
   "color": "#d4483b",
   "count": 35,
   "recent": 10,
-  "heat": 398.8,
+  "heat": 392.8,
   "momentum": -0.143,
   "series": [
    0,
@@ -591,7 +591,7 @@
   "summary": [
    [
     "热点概括",
-    "近 30 天有 5 条动态，前 30 天 5 条，基本持平；更早（60 天以前）还有 25 条，说明这是个持续被跟踪的对象。来源以**产业资讯**为主（5 条，占 100%）。**信息来源高度单一**，目前只在「产业资讯」这一个渠道被讨论，量虽不少但视角单一，容易高估或低估它在其他环节的实际进展，最好交叉看看另外几条线有没有对应的动静。 主要涉及的赛道是 **产业与商业化** 与 **关卡与玩法生成**。 这段时间的动态没有明显的营销动作信号，主要是在技术讨论中被提到。"
+    "近 30 天有 4 条动态，前 30 天 6 条，环比减少 2 条；更早（60 天以前）还有 25 条，说明这是个持续被跟踪的对象。来源以**产业资讯**为主（4 条，占 100%）。**信息来源高度单一**，目前只在「产业资讯」这一个渠道被讨论，且样本量偏小——这类产品的判断置信度较低，建议点开原始条目自己看一眼再下结论。 主要涉及的赛道是 **产业与商业化**。 这段时间的动态没有明显的营销动作信号，主要是在技术讨论中被提到。"
    ],
    [
     "最值得看的一条",
@@ -599,7 +599,7 @@
    ],
    [
     "怎么解读",
-    "**声量小幅下滑**（-14%），还在正常波动范围内。 最近一次被提到就在 3 天前，是当下正在发生的话题。"
+    "**声量小幅下滑**（-14%），还在正常波动范围内。 最近一次被提到在 4 天前，话题仍在持续。"
    ]
   ],
   "items": [
@@ -609,8 +609,17 @@
     "source": "Sohu",
     "source_type": "news",
     "date": "2026-09-10",
-    "heat": 77.9,
+    "heat": 75.7,
     "summary": "腾讯这款长青产品，这次把“游戏+AI”玩出了新花样 youxituoluo.com"
+   },
+   {
+    "title": "腾讯游戏发布2026暑期未保专项，升级AI双引擎防沉迷模式",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5cjE0QWtHQl8yRTZxUFJEeDJacFUyV3E1RUp2VGd6by01Z3I1WW1iUHFTcVpjUG90TUdzclpVX290c3gtbWdEY1FxTUZYY0FLekRBUVhBNFVoRWJiX0lzWXR1QmppS1pFSnVHdkJ3?oc=5",
+    "source": "央广网",
+    "source_type": "news",
+    "date": "2026-07-04",
+    "heat": 52.8,
+    "summary": "腾讯游戏发布2026暑期未保专项，升级AI双引擎防沉迷模式 finance.sina.com.cn"
    },
    {
     "title": "腾讯 IEG 重组 AI 游戏部门，目标探索 AI 原生游戏",
@@ -618,7 +627,7 @@
     "source": "CryptoRank",
     "source_type": "news",
     "date": "2026-09-07",
-    "heat": 53.4,
+    "heat": 51.8,
     "summary": "腾讯 IEG 重组 AI 游戏部门，目标探索 AI 原生游戏 CryptoRank"
    },
    {
@@ -627,7 +636,7 @@
     "source": "机核GCORES",
     "source_type": "news",
     "date": "2026-08-28",
-    "heat": 51.8,
+    "heat": 51.0,
     "summary": "腾讯游戏公共技术线首次整体亮相gamescom，以全链路自研AI技术加速游戏工业创新 cb.com.cn"
    },
    {
@@ -638,18 +647,9 @@
     "date": "2026-04-16",
     "heat": 44.9,
     "summary": "腾讯发布并开源混元世界模型 2.0 一句话造出3D世界 兼容游戏引擎 tech.cnr.cn"
-   },
-   {
-    "title": "腾讯游戏发布2026暑期未保专项，升级AI双引擎防沉迷模式",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5cjE0QWtHQl8yRTZxUFJEeDJacFUyV3E1RUp2VGd6by01Z3I1WW1iUHFTcVpjUG90TUdzclpVX290c3gtbWdEY1FxTUZYY0FLekRBUVhBNFVoRWJiX0lzWXR1QmppS1pFSnVHdkJ3?oc=5",
-    "source": "央广网",
-    "source_type": "news",
-    "date": "2026-07-04",
-    "heat": 44.8,
-    "summary": "腾讯游戏发布2026暑期未保专项，升级AI双引擎防沉迷模式 finance.sina.com.cn"
    }
   ],
-  "heat_index": 23.5
+  "heat_index": 21.8
  },
  {
   "name": "Cursor",
@@ -659,7 +659,7 @@
   "color": "#7a5cf0",
   "count": 11,
   "recent": 6,
-  "heat": 370.5,
+  "heat": 366.6,
   "momentum": 1.5,
   "series": [
    0,
@@ -703,11 +703,11 @@
    ],
    [
     "最值得看的一条",
-    "最值得看的是一条开源项目：**CoplayDev/unity-mcp**（14184 星），Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, 。"
+    "最值得看的是一条开源项目：**CoplayDev/unity-mcp**（14220 星），Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, 。"
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Unity**、**MCP**、**GPT**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 6 天前，话题仍在持续。"
+    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Unity**、**MCP**、**GPT**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 7 天前，话题仍在持续。"
    ]
   ],
   "items": [
@@ -717,7 +717,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 81.6,
+    "heat": 80.8,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -726,7 +726,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-04",
-    "heat": 75.7,
+    "heat": 74.9,
     "summary": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for"
    },
    {
@@ -735,7 +735,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-07",
-    "heat": 60.1,
+    "heat": 59.2,
     "summary": "The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input "
    },
    {
@@ -744,7 +744,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-03",
-    "heat": 58.8,
+    "heat": 58.1,
     "summary": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 27"
    },
    {
@@ -753,11 +753,11 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 56.6,
+    "heat": 56.0,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    }
   ],
-  "heat_index": 21.8
+  "heat_index": 20.3
  },
  {
   "name": "GitHub Copilot",
@@ -767,7 +767,7 @@
   "color": "#7a5cf0",
   "count": 7,
   "recent": 5,
-  "heat": 311.7,
+  "heat": 308.5,
   "momentum": 1.5,
   "series": [
    0,
@@ -811,11 +811,11 @@
    ],
    [
     "最值得看的一条",
-    "最值得看的是一条开源项目：**CoplayDev/unity-mcp**（14184 星），Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, 。"
+    "最值得看的是一条开源项目：**CoplayDev/unity-mcp**（14220 星），Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, 。"
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Unity**、**MCP**、**Cursor**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 6 天前，话题仍在持续。"
+    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Unity**、**MCP**、**Cursor**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 7 天前，话题仍在持续。"
    ]
   ],
   "items": [
@@ -825,7 +825,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 81.6,
+    "heat": 80.8,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -834,7 +834,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-04",
-    "heat": 75.7,
+    "heat": 74.9,
     "summary": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for"
    },
    {
@@ -843,7 +843,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-07",
-    "heat": 60.1,
+    "heat": 59.2,
     "summary": "The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input "
    },
    {
@@ -852,7 +852,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 56.6,
+    "heat": 56.0,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    },
    {
@@ -861,11 +861,11 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-07-31",
-    "heat": 37.7,
+    "heat": 37.6,
     "summary": "The Most Advanced MCP Server for Godot Editor with execute_code, prompts/resources, projec"
    }
   ],
-  "heat_index": 18.4
+  "heat_index": 17.1
  },
  {
   "name": "DeepSeek",
@@ -875,7 +875,7 @@
   "color": "#7a5cf0",
   "count": 6,
   "recent": 5,
-  "heat": 296.2,
+  "heat": 292.1,
   "momentum": 1.5,
   "series": [
    0,
@@ -923,7 +923,7 @@
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**GPT**、**MCP**、**Agent 智能体**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 5 天前，话题仍在持续。"
+    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**GPT**、**MCP**、**Agent 智能体**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 6 天前，话题仍在持续。"
    ]
   ],
   "items": [
@@ -933,7 +933,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 60.4,
+    "heat": 59.4,
     "summary": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026 · agent-framework ai-agent ai-simulati"
    },
    {
@@ -942,7 +942,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 56.6,
+    "heat": 56.0,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    },
    {
@@ -951,7 +951,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-04-28",
-    "heat": 53.4,
+    "heat": 53.3,
     "summary": "Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. OpenAI GPT-5, Deepseek R1, Cla"
    },
    {
@@ -960,7 +960,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 50.5,
+    "heat": 49.7,
     "summary": "[Agentic AI-RPG] Agentic AI role-playing game framework — narration, NPCs, lore, and chara"
    },
    {
@@ -969,11 +969,11 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 48.6,
+    "heat": 47.7,
     "summary": "AI-powered interactive RPG engine with persistent memory, independent NPC minds, creativit"
    }
   ],
-  "heat_index": 17.4
+  "heat_index": 16.2
  },
  {
   "name": "Gemini",
@@ -983,7 +983,7 @@
   "color": "#7a5cf0",
   "count": 9,
   "recent": 4,
-  "heat": 272.7,
+  "heat": 269.8,
   "momentum": 1.5,
   "series": [
    0,
@@ -1028,11 +1028,11 @@
    ],
    [
     "最值得看的一条",
-    "最值得看的是一条开源项目：**CoplayDev/unity-mcp**（14184 星），Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, 。"
+    "最值得看的是一条开源项目：**CoplayDev/unity-mcp**（14220 星），Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, 。"
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **GPT**、**Claude**、**Unity**、**MCP**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 8 天前，话题仍在持续。"
+    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **GPT**、**Claude**、**Unity**、**MCP**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 9 天前，话题仍在持续。"
    ]
   ],
   "items": [
@@ -1042,7 +1042,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 81.6,
+    "heat": 80.8,
     "summary": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tool"
    },
    {
@@ -1051,7 +1051,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-04",
-    "heat": 75.7,
+    "heat": 74.9,
     "summary": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for"
    },
    {
@@ -1060,7 +1060,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-03",
-    "heat": 58.8,
+    "heat": 58.1,
     "summary": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 27"
    },
    {
@@ -1069,7 +1069,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-02",
-    "heat": 56.6,
+    "heat": 56.0,
     "summary": "Unity plugin for Coplay · ai anthropic claude copilot cursor deepseek game-development gam"
    },
    {
@@ -1078,11 +1078,11 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-04-28",
-    "heat": 53.4,
+    "heat": 53.3,
     "summary": "Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. OpenAI GPT-5, Deepseek R1, Cla"
    }
   ],
-  "heat_index": 16.1
+  "heat_index": 15.0
  },
  {
   "name": "Unreal",
@@ -1092,7 +1092,7 @@
   "color": "#2b7fbf",
   "count": 24,
   "recent": 4,
-  "heat": 260.0,
+  "heat": 264.7,
   "momentum": 1.5,
   "series": [
    6,
@@ -1142,7 +1142,7 @@
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 最近一次被提到在 6 天前，话题仍在持续。"
+    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 最近一次被提到在 7 天前，话题仍在持续。"
    ]
   ],
   "items": [
@@ -1152,7 +1152,7 @@
     "source": "36Kr",
     "source_type": "news",
     "date": "2026-09-07",
-    "heat": 62.7,
+    "heat": 61.0,
     "summary": "虚幻引擎CEO围观最新世界模型：代码驱动，视频模型生成画面 36 Kr"
    },
    {
@@ -1161,7 +1161,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 58.1,
+    "heat": 57.1,
     "summary": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct too"
    },
    {
@@ -1174,6 +1174,15 @@
     "summary": "With the advancement of interactive video generation, diffusion models have increasingly d"
    },
    {
+    "title": "Rocksteady’s New Batman Game is Expanding With Advanced AI, Melee Combat, and Unreal Engine 5",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GOUE3QXAwUE9ZUDJ1TUdGZ1hHNGJaclBHeDRXaEdzZHUwWTNIa0J0dm1kQXNwYlN0ZEVxamM4TWVqWkpfbU9OY3NpOFZEUm1HR1FHU1VnS2VlMl9JYnRjMF85aEphMjl1dl95U1B4MFc?oc=5",
+    "source": "NoobFeed",
+    "source_type": "news",
+    "date": "2026-09-07",
+    "heat": 54.0,
+    "summary": "Rocksteady’s New Batman Game is Expanding With Advanced AI, Melee Combat, and Unreal Engin"
+   },
+   {
     "title": "Show HN: AI agents that control Unity, Godot, and Unreal editors",
     "url": "https://github.com/TomLeeLive/openclaw-unity-plugin",
     "source": "Hacker News",
@@ -1181,18 +1190,9 @@
     "date": "2026-02-23",
     "heat": 53.5,
     "summary": "I built OpenClaw plugins for the three major game engines. The AI agent controls the edito"
-   },
-   {
-    "title": "prajwalshettydev/UnrealGenAISupport",
-    "url": "https://github.com/prajwalshettydev/UnrealGenAISupport",
-    "source": "GitHub",
-    "source_type": "repo",
-    "date": "2026-04-28",
-    "heat": 53.4,
-    "summary": "Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. OpenAI GPT-5, Deepseek R1, Cla"
    }
   ],
-  "heat_index": 15.3
+  "heat_index": 14.7
  },
  {
   "name": "Godot",
@@ -1202,7 +1202,7 @@
   "color": "#2b7fbf",
   "count": 19,
   "recent": 4,
-  "heat": 223.5,
+  "heat": 220.7,
   "momentum": 1.5,
   "series": [
    0,
@@ -1252,7 +1252,7 @@
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Agent 智能体**、**Unity**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 5 天前，话题仍在持续。"
+    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 常与它一起出现的是 **Claude**、**Agent 智能体**、**Unity**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 6 天前，话题仍在持续。"
    ]
   ],
   "items": [
@@ -1262,7 +1262,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 68.9,
+    "heat": 67.9,
     "summary": "Autonomous text-to-game pipeline for Godot, powered by Claude Code,Codex,Opencode · ai-age"
    },
    {
@@ -1271,7 +1271,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-03",
-    "heat": 58.8,
+    "heat": 58.1,
     "summary": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 27"
    },
    {
@@ -1280,7 +1280,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-08",
-    "heat": 58.1,
+    "heat": 57.1,
     "summary": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct too"
    },
    {
@@ -1302,7 +1302,7 @@
     "summary": "Inspired by Ren'Py, Rakugo is a project aiming to provide a way to make narrative-based ga"
    }
   ],
-  "heat_index": 13.2
+  "heat_index": 12.2
  },
  {
   "name": "Matrix-Game",
@@ -1312,7 +1312,7 @@
   "color": "#6d5efc",
   "count": 11,
   "recent": 3,
-  "heat": 162.6,
+  "heat": 161.1,
   "momentum": 0.0,
   "series": [
    2,
@@ -1359,7 +1359,7 @@
    ],
    [
     "怎么解读",
-    "**声量基本持平**，没有出现明显的起落。 常与它一起出现的是 **世界模型**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到在 14 天前，话题仍在持续。"
+    "**声量基本持平**，没有出现明显的起落。 常与它一起出现的是 **世界模型**，这些共现词基本勾勒出它在整条链路里的位置。 最近一次被提到已是 15 天前，热度已过，可以作为背景资料看。"
    ]
   ],
   "items": [
@@ -1369,7 +1369,7 @@
     "source": "arXiv",
     "source_type": "paper",
     "date": "2026-08-31",
-    "heat": 68.7,
+    "heat": 67.6,
     "summary": "Interactive world models extend video generation from offline clip synthesis toward persis"
    },
    {
@@ -1396,7 +1396,7 @@
     "source": "arXiv",
     "source_type": "paper",
     "date": "2026-06-29",
-    "heat": 47.9,
+    "heat": 47.8,
     "summary": "We present DreamForge-World 0.1 Preview, a preview foundational world model for real-time "
    },
    {
@@ -1409,115 +1409,7 @@
     "summary": "Recent advances in interactive video generations have demonstrated diffusion model's poten"
    }
   ],
-  "heat_index": 9.6
- },
- {
-  "name": "Steam",
-  "cat": "发行平台",
-  "vendor": "Valve",
-  "track": "industry",
-  "color": "#d4483b",
-  "count": 19,
-  "recent": 5,
-  "heat": 148.4,
-  "momentum": -1.0,
-  "series": [
-   0,
-   0,
-   1,
-   0,
-   4,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "src_types": {
-   "paper": 1,
-   "community": 3,
-   "news": 15
-  },
-  "tracks": [
-   "industry",
-   "level_gen",
-   "agentic_dev"
-  ],
-  "terms": [
-   "Steam",
-   "PCG 程序化生成",
-   "Vibe Coding",
-   "Unity",
-   "Unreal",
-   "Godot",
-   "融资"
-  ],
-  "summary": [
-   [
-    "热点概括",
-    "近 60 天有 5 条动态，前 60 天 8 条，环比减少 3 条；更早（90 天以前）还有 14 条，说明这是个持续被跟踪的对象。来源以**产业资讯**为主（4 条，占 80%），其次 学术论文 1 条。**以产业资讯为主**——说明它的动态主要来自厂商主动发声和媒体转述，这类内容里宣传成分通常高于信息量，判断进展时优先去找有没有可上手的东西。 主要涉及的赛道是 **产业与商业化** 与 **关卡与玩法生成**。 其中**对外发新版 / 上线新能力** 1 条、**被集成进工具链** 1 条。"
-   ],
-   [
-    "最值得看的一条",
-    "最值得看的是一条资讯：**AI Vibe Coding Could Soon Become A Huge Issue For Steam Games, Warns A**，AI Vibe Coding Could Soon Become A Huge Issue For Steam Games, Warns Analyst tech4gamers.com。"
-   ],
-   [
-    "怎么解读",
-    "**声量明显回落**（-100%）。对产品来说这未必是坏消息：话题性下降往往发生在能力已经被当成默认选项之后，也可能只是这一轮发布的周期结束了。要结合它有没有持续的版本更新来判断，而不是只看讨论量。 最近一次被提到已是 33 天前，热度已过，可以作为背景资料看。"
-   ]
-  ],
-  "items": [
-   {
-    "title": "AI Vibe Coding Could Soon Become A Huge Issue For Steam Games, Warns Analyst",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SZ01qeFE1SVN0Qm9ma0JwNmhXajdiYTJheV90a1FWbHRpdmxrWXl2WGZYaFItcTlCcnVkYUVxQzhuX1VPUXpaOXhFRDNHX2ZmcVJvOEoyWjduQVQxNjhnVQ?oc=5",
-    "source": "Tech4Gamers",
-    "source_type": "news",
-    "date": "2026-07-15",
-    "heat": 30.5,
-    "summary": "AI Vibe Coding Could Soon Become A Huge Issue For Steam Games, Warns Analyst tech4gamers.c"
-   },
-   {
-    "title": "Show HN: A Visual No-Code Game Engine – 50x Easier Than Unity",
-    "url": "https://play-maker.io",
-    "source": "Hacker News",
-    "source_type": "community",
-    "date": "2025-10-23",
-    "heat": 28.1,
-    "summary": "I've spent 30 years making games as both a hobby and profession, working with Unity, Unrea"
-   },
-   {
-    "title": "Alright, who's the joker trying to charge $100 on Steam for an almost entirely AI-generated game?",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZVBSVWIxekM4b3BmNFVoWF84eFFhUEJuMUdjRThRd2JOU0hHMVF2WEQxR1loZ19hZFFaV3lHTkFlRWVZZFBiRTJNbk9lZUZxZVBvTXZPUkUxemxjckh0QkJzamM2ekt2S2hZay1wM3FCWmFra0pObDBkU2k2eHhPTXhCMHM4aW5pWThGX3VPLVZWRmNZdEJPX0hlQk9rLWZ3Q3ZkSHVSdl9hQ2gwR21SMTFiT0ZQcnpoNlI4NWVzRzRldnZCcTRiUzJxRk1jZWpqZ1Mw?oc=5",
-    "source": "PC Gamer",
-    "source_type": "news",
-    "date": "2026-06-13",
-    "heat": 28.0,
-    "summary": "Alright, who's the joker trying to charge $100 on Steam for an almost entirely AI-generate"
-   },
-   {
-    "title": "A Visual Novel Game On Steam That's Nearly Entirely AI-Generated Is Somehow Asking For $100",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVZIYWU4MlhDV0VYX1ZOdEFBNjFrQVNMc2xhcUpHYlZlQndkTG5UbUJWWkdrOUhNYVVPMXJldnRFaW1qSUtpVVJKX0FQQ1ZlSVBUOG9QZXFuRkdGRDA4QzlXd2ZXSmNaZkFfTzJnSmdFNEQzZjVNc1RCNEd6QmE1dnFKSzl6OHltc0JBdTI2RFd3QjdsRmQxcHBaOXpFTWc?oc=5",
-    "source": "TheGamer",
-    "source_type": "news",
-    "date": "2026-05-31",
-    "heat": 27.7,
-    "summary": "A Visual Novel Game On Steam That's Nearly Entirely AI-Generated Is Somehow Asking For $10"
-   },
-   {
-    "title": "Tomb Raider: Legacy Of Atlantis AI Disclaimer Spotted On Steam",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15bHRzcElvUXlLTUx1X2Mxem5LTVFBbXVUVGU3R1NQTTRGYmFxQThWWWgyU3NpQ3pJS1A4ZmhHakY4b05fcjc0dU5aMVRhSFdQMGVDcDJOUTk1Y29kZ2o4Q0plalBIZ1VVRnZlWnFSNm4?oc=5",
-    "source": "TheGamer",
-    "source_type": "news",
-    "date": "2026-06-03",
-    "heat": 27.7,
-    "summary": "Tomb Raider: Legacy Of Atlantis AI Disclaimer Spotted On Steam thegamer.com"
-   }
-  ],
-  "heat_index": 8.7
+  "heat_index": 8.9
  },
  {
   "name": "网易",
@@ -1527,7 +1419,7 @@
   "color": "#d4483b",
   "count": 3,
   "recent": 2,
-  "heat": 91.6,
+  "heat": 89.4,
   "momentum": 1.0,
   "series": [
    0,
@@ -1568,7 +1460,7 @@
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +100%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 最近一次被提到就在 3 天前，是当下正在发生的话题。"
+    "**声量在明显上升**（周提及动能 +100%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 最近一次被提到在 4 天前，话题仍在持续。"
    ]
   ],
   "items": [
@@ -1578,7 +1470,7 @@
     "source": "Sohu",
     "source_type": "news",
     "date": "2026-09-10",
-    "heat": 70.0,
+    "heat": 67.9,
     "summary": "网易天下×火山引擎：AI进入游戏工作流，TVC制作成本降低95% 中国日报网"
    },
    {
@@ -1596,11 +1488,218 @@
     "source": "手机网易网",
     "source_type": "news",
     "date": "2026-07-17",
-    "heat": 21.6,
+    "heat": 21.5,
     "summary": "面向手机的AI游戏创作工具，《Roblox》移动版更新“Build”功能 手机网易网"
    }
   ],
-  "heat_index": 5.4
+  "heat_index": 5.0
+ },
+ {
+  "name": "Steam",
+  "cat": "发行平台",
+  "vendor": "Valve",
+  "track": "industry",
+  "color": "#d4483b",
+  "count": 19,
+  "recent": 3,
+  "heat": 85.4,
+  "momentum": -1.0,
+  "series": [
+   0,
+   0,
+   1,
+   0,
+   4,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "src_types": {
+   "paper": 1,
+   "community": 3,
+   "news": 15
+  },
+  "tracks": [
+   "industry",
+   "level_gen",
+   "agentic_dev"
+  ],
+  "terms": [
+   "Steam",
+   "PCG 程序化生成",
+   "Vibe Coding",
+   "Unity",
+   "Unreal",
+   "Godot",
+   "融资"
+  ],
+  "summary": [
+   [
+    "热点概括",
+    "近 60 天有 3 条动态，前 60 天 10 条，环比减少 7 条；更早（90 天以前）还有 16 条，说明这是个持续被跟踪的对象。来源以**产业资讯**为主（2 条，占 67%），其次 学术论文 1 条。样本量只有 3 条，来源结构还看不出稳定特征，这个阶段更适合把它当成待观察对象，而不是已经有明确定位的产品。 主要涉及的赛道是 **产业与商业化** 与 **关卡与玩法生成**。 其中**对外发新版 / 上线新能力** 1 条、**被集成进工具链** 1 条。"
+   ],
+   [
+    "最值得看的一条",
+    "最值得看的是一篇论文：**Player Perceptions of Generative AI in Games: A Steam Review Analysis**，The rapid adoption of generative AI in game development has created large discussions among players, yet littl。"
+   ],
+   [
+    "怎么解读",
+    "**声量明显回落**（-100%）。对产品来说这未必是坏消息：话题性下降往往发生在能力已经被当成默认选项之后，也可能只是这一轮发布的周期结束了。要结合它有没有持续的版本更新来判断，而不是只看讨论量。 最近一次被提到已是 33 天前，热度已过，可以作为背景资料看。"
+   ]
+  ],
+  "items": [
+   {
+    "title": "AI Vibe Coding Could Soon Become A Huge Issue For Steam Games, Warns Analyst",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SZ01qeFE1SVN0Qm9ma0JwNmhXajdiYTJheV90a1FWbHRpdmxrWXl2WGZYaFItcTlCcnVkYUVxQzhuX1VPUXpaOXhFRDNHX2ZmcVJvOEoyWjduQVQxNjhnVQ?oc=5",
+    "source": "Tech4Gamers",
+    "source_type": "news",
+    "date": "2026-07-15",
+    "heat": 30.5,
+    "summary": "AI Vibe Coding Could Soon Become A Huge Issue For Steam Games, Warns Analyst tech4gamers.c"
+   },
+   {
+    "title": "Show HN: A Visual No-Code Game Engine – 50x Easier Than Unity",
+    "url": "https://play-maker.io",
+    "source": "Hacker News",
+    "source_type": "community",
+    "date": "2025-10-23",
+    "heat": 28.1,
+    "summary": "I've spent 30 years making games as both a hobby and profession, working with Unity, Unrea"
+   },
+   {
+    "title": "Alright, who's the joker trying to charge $100 on Steam for an almost entirely AI-generated game?",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZVBSVWIxekM4b3BmNFVoWF84eFFhUEJuMUdjRThRd2JOU0hHMVF2WEQxR1loZ19hZFFaV3lHTkFlRWVZZFBiRTJNbk9lZUZxZVBvTXZPUkUxemxjckh0QkJzamM2ekt2S2hZay1wM3FCWmFra0pObDBkU2k2eHhPTXhCMHM4aW5pWThGX3VPLVZWRmNZdEJPX0hlQk9rLWZ3Q3ZkSHVSdl9hQ2gwR21SMTFiT0ZQcnpoNlI4NWVzRzRldnZCcTRiUzJxRk1jZWpqZ1Mw?oc=5",
+    "source": "PC Gamer",
+    "source_type": "news",
+    "date": "2026-06-13",
+    "heat": 28.0,
+    "summary": "Alright, who's the joker trying to charge $100 on Steam for an almost entirely AI-generate"
+   },
+   {
+    "title": "Tomb Raider: Legacy Of Atlantis AI Disclaimer Spotted On Steam",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15bHRzcElvUXlLTUx1X2Mxem5LTVFBbXVUVGU3R1NQTTRGYmFxQThWWWgyU3NpQ3pJS1A4ZmhHakY4b05fcjc0dU5aMVRhSFdQMGVDcDJOUTk1Y29kZ2o4Q0plalBIZ1VVRnZlWnFSNm4?oc=5",
+    "source": "TheGamer",
+    "source_type": "news",
+    "date": "2026-06-03",
+    "heat": 27.7,
+    "summary": "Tomb Raider: Legacy Of Atlantis AI Disclaimer Spotted On Steam thegamer.com"
+   },
+   {
+    "title": "A Visual Novel Game On Steam That's Nearly Entirely AI-Generated Is Somehow Asking For $100",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVZIYWU4MlhDV0VYX1ZOdEFBNjFrQVNMc2xhcUpHYlZlQndkTG5UbUJWWkdrOUhNYVVPMXJldnRFaW1qSUtpVVJKX0FQQ1ZlSVBUOG9QZXFuRkdGRDA4QzlXd2ZXSmNaZkFfTzJnSmdFNEQzZjVNc1RCNEd6QmE1dnFKSzl6OHltc0JBdTI2RFd3QjdsRmQxcHBaOXpFTWc?oc=5",
+    "source": "TheGamer",
+    "source_type": "news",
+    "date": "2026-05-31",
+    "heat": 27.6,
+    "summary": "A Visual Novel Game On Steam That's Nearly Entirely AI-Generated Is Somehow Asking For $10"
+   }
+  ],
+  "heat_index": 4.7
+ },
+ {
+  "name": "Ubisoft",
+  "cat": "大厂",
+  "vendor": "法国",
+  "track": "industry",
+  "color": "#d4483b",
+  "count": 7,
+  "recent": 1,
+  "heat": 67.6,
+  "momentum": 0.0,
+  "series": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "src_types": {
+   "news": 7
+  },
+  "tracks": [
+   "industry",
+   "npc_narrative"
+  ],
+  "terms": [
+   "AI NPC"
+  ],
+  "summary": [
+   [
+    "热点概括",
+    "近 60 天有 1 条动态，前 60 天 1 条，基本持平；更早（90 天以前）还有 6 条，说明这是个持续被跟踪的对象。来源以**产业资讯**为主（1 条，占 100%）。**信息来源高度单一**，目前只在「产业资讯」这一个渠道被讨论，且样本量偏小——这类产品的判断置信度较低，建议点开原始条目自己看一眼再下结论。 主要涉及的赛道是 **产业与商业化**。 这段时间的动态没有明显的营销动作信号，主要是在技术讨论中被提到。"
+   ],
+   [
+    "最值得看的一条",
+    "最值得看的是一条资讯：**'We need to be humble:' Ubisoft makes its pitch for generative AI**，'We need to be humble:' Ubisoft makes its pitch for generative AI GameDev.net。"
+   ],
+   [
+    "怎么解读",
+    "**声量基本持平**，没有出现明显的起落。 最近一次被提到就在 0 天前，是当下正在发生的话题。"
+   ]
+  ],
+  "items": [
+   {
+    "title": "'We need to be humble:' Ubisoft makes its pitch for generative AI",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekVjbVZRSlExaVpjWm1CVnJHLU1GWDFCVkE1dVl3OFpuV1R2dzRPc3lKeXgwdllCclFhWFA0Yy01Y0NyU1I5RGVUQUZjbWVYeUlEZ0V2V1lGRTlaWndUOEloQjB2VTAxWHB4MmM2bXZ6aGV6aGZySDFGOXNQVVRIQ3AyaEhCNXBKQ2dvakxUMnpNNW5FdlpN?oc=5",
+    "source": "GameDev.net",
+    "source_type": "news",
+    "date": "2026-09-14",
+    "heat": 67.6,
+    "summary": "'We need to be humble:' Ubisoft makes its pitch for generative AI GameDev.net"
+   },
+   {
+    "title": "Ubisoft working on new Assassin’s Creed, Far Cry, Ghost Recon, and ‘first playable’ gen-AI experience",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkxvSklRdmFHU0NMUnpMSlh0UWlpRjRha2VGU1FRV0R3MzJNRVlSUkE5ZXFmdmxfWUYyMk9zaXltbEJGNUFzRlZ0Z1ZpcUxGZFFVLWhRWEd4cW5JdDRmVDZ0UkZzQ1FkcTdoUDVyRjNGODh4dU81VUJDcnlSVnJ3bGdRYVVRY3RwdjZZNzBJYW9QVkphLVFtSlVMMzlHVmcxQ1BWYzhZNE9EWWY4cHRGSklOMF9JaVk?oc=5",
+    "source": "Video Games Chronicle",
+    "source_type": "news",
+    "date": "2026-05-21",
+    "heat": 28.5,
+    "summary": "Ubisoft working on new Assassin’s Creed, Far Cry, Ghost Recon, and ‘first playable’ gen-AI"
+   },
+   {
+    "title": "Meet Teammates, Ubisoft’s AI-powered take at redefining player-NPC interaction",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtN0w5ZHkxYU5xNnlveEtaTnJtUGxBZEtjelVkQlhCczlXWFFWM2p3MlJFemRlZkE5WnJPcFRiMTZrVGVLc0RkcWZveUZ4T3ZuOEhGTkQ3TTJwZ1prMk1mSE1RbnVQOGQ3dEdfdjVjUHFDZmxuRm9pRGRTeXI?oc=5",
+    "source": "dotesports.com",
+    "source_type": "news",
+    "date": "2025-11-21",
+    "heat": 25.4,
+    "summary": "Meet Teammates, Ubisoft’s AI-powered take at redefining player-NPC interaction dotesports."
+   },
+   {
+    "title": "Ubisoft Launches Teammates, a GenAI NPC Prototype | Outlook Respawn",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdElPMHA0S21OTGpFc25SWks0Wll0cHJ6RV9WU3h4RzFMQU1fUVFVcTlfUE93SXM2bHFwWTQ5NkQ1R3JZNkpJVUpEcjA5dUl6YXlzLXpMMHdHZkszQXdRQlI5T1g0amIwaTVnU0FFYUFUT1dCZUJma29jSFdZWWJYUlNjSkdCQlE5Z3N3eFlPSVRjMXFaaC15dHI5YjFKWWJ2YnfSAa8BQVVfeXFMTlFPSC02SkpyVnBmd1RoaUNuMUdzM09BM210OUpyUGdDaGNsV2oxc3ZoZWJTVlFJSHpiSm1VU2ZFZXNIQW94eUdjV3Z2YTZFMWwwN1hiR2IxcEd1TmFXZFJwbGlQOXc5ZnhFWFlwbmpTckh1aHFNNEFRZVgzQWlvMTJSVGE3Z3dXMnRxdzhQQTdIVjNYcUVGMTRqSnNtckNmbVFxaTNDMkVCSk5nVEEwRQ?oc=5",
+    "source": "Outlook Respawn",
+    "source_type": "news",
+    "date": "2025-11-23",
+    "heat": 24.7,
+    "summary": "Ubisoft Launches Teammates, a GenAI NPC Prototype | Outlook Respawn Outlook Respawn"
+   },
+   {
+    "title": "Ubisoft's AI NPC project can now deliver sarcastic GMs, helpful team-mates and hidden lore – and is being playtested now",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPczdNOS1rbnd1dWdjOUVIZEpzT1J2bWN5UTB2RGlhSGYybVVlczNDRU9JOFhVczVEam5sTmxqRmgzbGZFaWtuT2xUa0l6TEZUNWRPLU52NXFteVRkS1lKajZCNEdWOGdqRHg5bGpnOW5qTXZ4a0JGd2V4S1ZOWjBIRE5faXlWX1p3Ui1wdE12Ync0MzFBc05VZS1jOEROd2VLTGROTXRyNjh5NEViM3loX2ZCaWtxX3NENmRwazdUR0YtTm1SQi1wTm00X2RzWXlvOTFKV3J0VG9US2VrVWFr?oc=5",
+    "source": "GamesIndustry.biz",
+    "source_type": "news",
+    "date": "2025-11-21",
+    "heat": 24.3,
+    "summary": "Ubisoft's AI NPC project can now deliver sarcastic GMs, helpful team-mates and hidden lore"
+   }
+  ],
+  "heat_index": 3.7
  },
  {
   "name": "AlayaWorld",
@@ -1610,7 +1709,7 @@
   "color": "#6d5efc",
   "count": 2,
   "recent": 1,
-  "heat": 60.1,
+  "heat": 60.0,
   "momentum": -1.0,
   "series": [
    0,
@@ -1653,7 +1752,7 @@
    ],
    [
     "怎么解读",
-    "**声量明显回落**（-100%）。对产品来说这未必是坏消息：话题性下降往往发生在能力已经被当成默认选项之后，也可能只是这一轮发布的周期结束了。要结合它有没有持续的版本更新来判断，而不是只看讨论量。 最近一次被提到已是 55 天前，热度已过，可以作为背景资料看。"
+    "**声量明显回落**（-100%）。对产品来说这未必是坏消息：话题性下降往往发生在能力已经被当成默认选项之后，也可能只是这一轮发布的周期结束了。要结合它有没有持续的版本更新来判断，而不是只看讨论量。 最近一次被提到已是 56 天前，热度已过，可以作为背景资料看。"
    ]
   ],
   "items": [
@@ -1663,7 +1762,7 @@
     "source": "arXiv",
     "source_type": "paper",
     "date": "2026-07-07",
-    "heat": 68.2,
+    "heat": 68.1,
     "summary": "Game worlds have traditionally been built through labor-intensive production pipelines, ma"
    },
    {
@@ -1672,11 +1771,11 @@
     "source": "arXiv",
     "source_type": "paper",
     "date": "2026-07-21",
-    "heat": 60.1,
+    "heat": 60.0,
     "summary": "Unlike conventional video game development, which relies on labor-intensive pipelines for "
    }
   ],
-  "heat_index": 3.5
+  "heat_index": 3.3
  },
  {
   "name": "Qwen",
@@ -1686,7 +1785,7 @@
   "color": "#7a5cf0",
   "count": 5,
   "recent": 1,
-  "heat": 50.5,
+  "heat": 49.7,
   "momentum": 1.5,
   "series": [
    0,
@@ -1731,11 +1830,11 @@
    ],
    [
     "最值得看的一条",
-    "最值得看的是一条开源项目：**ackness/covel**（48 星），[Agentic AI-RPG] Agentic AI role-playing game framework — narration, NPCs, lore, and character creation are au。"
+    "最值得看的是一条开源项目：**ackness/covel**（49 星），[Agentic AI-RPG] Agentic AI role-playing game framework — narration, NPCs, lore, and character creation are au。"
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 最近一次被提到在 7 天前，话题仍在持续。"
+    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 最近一次被提到在 8 天前，话题仍在持续。"
    ]
   ],
   "items": [
@@ -1745,7 +1844,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-04-28",
-    "heat": 53.4,
+    "heat": 53.3,
     "summary": "Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. OpenAI GPT-5, Deepseek R1, Cla"
    },
    {
@@ -1754,7 +1853,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-09-06",
-    "heat": 50.5,
+    "heat": 49.7,
     "summary": "[Agentic AI-RPG] Agentic AI role-playing game framework — narration, NPCs, lore, and chara"
    },
    {
@@ -1763,7 +1862,7 @@
     "source": "Hacker News",
     "source_type": "community",
     "date": "2026-07-06",
-    "heat": 34.1,
+    "heat": 34.0,
     "summary": "Hi HN, I was once given the advice: Don't waste expensive frontier model credits (GPT/Clau"
    },
    {
@@ -1785,7 +1884,93 @@
     "summary": "Post-training a code generator against a learned judge can optimize proxy features that ra"
    }
   ],
-  "heat_index": 3.0
+  "heat_index": 2.8
+ },
+ {
+  "name": "AI Dungeon",
+  "cat": "AI 叙事",
+  "vendor": "Latitude",
+  "track": "npc_narrative",
+  "color": "#c94f7c",
+  "count": 3,
+  "recent": 1,
+  "heat": 47.2,
+  "momentum": 1.5,
+  "series": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  "src_types": {
+   "community": 1,
+   "repo": 1,
+   "news": 1
+  },
+  "tracks": [
+   "npc_narrative",
+   "industry"
+  ],
+  "terms": [
+   "AI Dungeon",
+   "Agent 智能体",
+   "Inworld",
+   "GPT"
+  ],
+  "summary": [
+   [
+    "热点概括",
+    "近 60 天有 1 条动态；更早（90 天以前）还有 2 条，说明这是个持续被跟踪的对象。来源以**开源项目**为主（1 条，占 100%）。**信息来源高度单一**，目前只在「开源项目」这一个渠道被讨论，且样本量偏小——这类产品的判断置信度较低，建议点开原始条目自己看一眼再下结论。 主要涉及的赛道是 **NPC 与叙事智能**。 这段时间的动态里，它最常和 **GPT** 一起出现——通常是被集成、被对比或被一起写进工具评测里，这也能反推它在整条链路上的位置。"
+   ],
+   [
+    "最值得看的一条",
+    "最值得看的是一条开源项目：**Sagesheep/NarrativeEngine-P**（95 星），Self-hosted AI Dungeon Master - run extended TTRPG campaigns with smart memory, living NPCs, and any OpenAI-co。"
+   ],
+   [
+    "怎么解读",
+    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 最近一次被提到在 12 天前，话题仍在持续。"
+   ]
+  ],
+  "items": [
+   {
+    "title": "Sagesheep/NarrativeEngine-P",
+    "url": "https://github.com/Sagesheep/NarrativeEngine-P",
+    "source": "GitHub",
+    "source_type": "repo",
+    "date": "2026-09-02",
+    "heat": 47.2,
+    "summary": "Self-hosted AI Dungeon Master - run extended TTRPG campaigns with smart memory, living NPC"
+   },
+   {
+    "title": "Show HN: Voiced, image-based D&D inspired AI-native RPG",
+    "url": "https://i-am-neon.itch.io/infinit",
+    "source": "Hacker News",
+    "source_type": "community",
+    "date": "2026-03-06",
+    "heat": 22.7,
+    "summary": "I'm a solo dev and I built a visual novel-style RPG where you type what you want to do and"
+   },
+   {
+    "title": "Latitude launches AI adventure Voyage to kill the scripted RPG",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sRmxfVkZoYXV4T2liTmZFMjNOTngyaHctS2xkaGVJVHNtaktaSmp1MzVFTjRHN1FaN0RzQ2Z6UTFlZDhjcXNBZVplc0R1cnBOMEthSFJ1R0luT2NITTJ6U2cxLVVXQQ?oc=5",
+    "source": "GamesBeat",
+    "source_type": "news",
+    "date": "2026-04-23",
+    "heat": 18.8,
+    "summary": "Latitude launches AI adventure Voyage to kill the scripted RPG GamesBeat"
+   }
+  ],
+  "heat_index": 2.6
  },
  {
   "name": "Tripo",
@@ -1795,7 +1980,7 @@
   "color": "#e0862a",
   "count": 4,
   "recent": 1,
-  "heat": 47.9,
+  "heat": 46.1,
   "momentum": 1.5,
   "series": [
    0,
@@ -1843,7 +2028,7 @@
    ],
    [
     "怎么解读",
-    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 最近一次被提到在 6 天前，话题仍在持续。"
+    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 最近一次被提到在 7 天前，话题仍在持续。"
    ]
   ],
   "items": [
@@ -1853,7 +2038,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-04-28",
-    "heat": 53.4,
+    "heat": 53.3,
     "summary": "Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. OpenAI GPT-5, Deepseek R1, Cla"
    },
    {
@@ -1862,7 +2047,7 @@
     "source": "TipRanks",
     "source_type": "news",
     "date": "2026-09-07",
-    "heat": 47.9,
+    "heat": 46.1,
     "summary": "Tripo AI Positions Platform for AI-Generated 3D Content Across Games and 3D Printing TipRa"
    },
    {
@@ -1884,172 +2069,7 @@
     "summary": "Tripo AI raises $150M for GenAI tools for gaming — a month after its previous $200M raise "
    }
   ],
-  "heat_index": 2.8
- },
- {
-  "name": "AI Dungeon",
-  "cat": "AI 叙事",
-  "vendor": "Latitude",
-  "track": "npc_narrative",
-  "color": "#c94f7c",
-  "count": 3,
-  "recent": 1,
-  "heat": 47.9,
-  "momentum": 1.5,
-  "series": [
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  "src_types": {
-   "community": 1,
-   "repo": 1,
-   "news": 1
-  },
-  "tracks": [
-   "npc_narrative",
-   "industry"
-  ],
-  "terms": [
-   "AI Dungeon",
-   "Agent 智能体",
-   "Inworld",
-   "GPT"
-  ],
-  "summary": [
-   [
-    "热点概括",
-    "近 60 天有 1 条动态；更早（90 天以前）还有 2 条，说明这是个持续被跟踪的对象。来源以**开源项目**为主（1 条，占 100%）。**信息来源高度单一**，目前只在「开源项目」这一个渠道被讨论，且样本量偏小——这类产品的判断置信度较低，建议点开原始条目自己看一眼再下结论。 主要涉及的赛道是 **NPC 与叙事智能**。 这段时间的动态里，它最常和 **GPT** 一起出现——通常是被集成、被对比或被一起写进工具评测里，这也能反推它在整条链路上的位置。"
-   ],
-   [
-    "最值得看的一条",
-    "最值得看的是一条开源项目：**Sagesheep/NarrativeEngine-P**（95 星），Self-hosted AI Dungeon Master - run extended TTRPG campaigns with smart memory, living NPCs, and any OpenAI-co。"
-   ],
-   [
-    "怎么解读",
-    "**声量在明显上升**（周提及动能 +150%）。这种量级的变化通常由某个具体事件触发（新版本、被某个热门项目集成、或大厂提了一句），翻一下下面列表里最近几天的条目基本就能定位到原因。 最近一次被提到在 11 天前，话题仍在持续。"
-   ]
-  ],
-  "items": [
-   {
-    "title": "Sagesheep/NarrativeEngine-P",
-    "url": "https://github.com/Sagesheep/NarrativeEngine-P",
-    "source": "GitHub",
-    "source_type": "repo",
-    "date": "2026-09-02",
-    "heat": 47.9,
-    "summary": "Self-hosted AI Dungeon Master - run extended TTRPG campaigns with smart memory, living NPC"
-   },
-   {
-    "title": "Show HN: Voiced, image-based D&D inspired AI-native RPG",
-    "url": "https://i-am-neon.itch.io/infinit",
-    "source": "Hacker News",
-    "source_type": "community",
-    "date": "2026-03-06",
-    "heat": 22.7,
-    "summary": "I'm a solo dev and I built a visual novel-style RPG where you type what you want to do and"
-   },
-   {
-    "title": "Latitude launches AI adventure Voyage to kill the scripted RPG",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sRmxfVkZoYXV4T2liTmZFMjNOTngyaHctS2xkaGVJVHNtaktaSmp1MzVFTjRHN1FaN0RzQ2Z6UTFlZDhjcXNBZVplc0R1cnBOMEthSFJ1R0luT2NITTJ6U2cxLVVXQQ?oc=5",
-    "source": "GamesBeat",
-    "source_type": "news",
-    "date": "2026-04-23",
-    "heat": 18.9,
-    "summary": "Latitude launches AI adventure Voyage to kill the scripted RPG GamesBeat"
-   }
-  ],
-  "heat_index": 2.8
- },
- {
-  "name": "Sora",
-  "cat": "视频生成",
-  "vendor": "OpenAI",
-  "track": "world_model",
-  "color": "#6d5efc",
-  "count": 2,
-  "recent": 1,
-  "heat": 37.7,
-  "momentum": -1.0,
-  "series": [
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "src_types": {
-   "community": 1,
-   "news": 1
-  },
-  "tracks": [
-   "benchmark",
-   "asset_gen",
-   "industry"
-  ],
-  "terms": [
-   "Sora",
-   "强化学习",
-   "GPT",
-   "Claude",
-   "Qwen 通义",
-   "Agent 智能体"
-  ],
-  "summary": [
-   [
-    "热点概括",
-    "近 60 天有 1 条动态；更早（90 天以前）还有 1 条，说明这是个持续被跟踪的对象。来源以**产业资讯**为主（1 条，占 100%）。**信息来源高度单一**，目前只在「产业资讯」这一个渠道被讨论，且样本量偏小——这类产品的判断置信度较低，建议点开原始条目自己看一眼再下结论。 主要涉及的赛道是 **产业与商业化**。 其中**融资 / 资本动作** 1 条。"
-   ],
-   [
-    "最值得看的一条",
-    "最值得看的是一条资讯：**PixVerse Closes $439M Round, Targets AI Game Engines After Sora Exits **，PixVerse Closes $439M Round, Targets AI Game Engines After Sora Exits Market techtimes.com。"
-   ],
-   [
-    "怎么解读",
-    "**声量明显回落**（-100%）。对产品来说这未必是坏消息：话题性下降往往发生在能力已经被当成默认选项之后，也可能只是这一轮发布的周期结束了。要结合它有没有持续的版本更新来判断，而不是只看讨论量。 最近一次被提到已是 60 天前，热度已过，可以作为背景资料看。"
-   ]
-  ],
-  "items": [
-   {
-    "title": "PixVerse Closes $439M Round, Targets AI Game Engines After Sora Exits Market",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVDVhM2FPSW0tbmJDWEVOcmJOLUZUU1dVZTZZSjVNbkZQdFoxY3hZbWkzVGstaS10T2dxdm42NUNYMWl3RmtXYzBsdmg5ZnNXaENteGhKQTVsNnZhd1gxWmFMUFpPWXpSWUItRTlSeUE1eW94RWVzN0FGazNYNWtRYmEwYnpxRjczZDJzYXZScVhFWVMyQ2tGYWdaMm9WUTZhRFVqMmZaLU0ySFpWLU5PcWhmUmRfWnJGNUhxeFluN0Z3S0VidWFiOA?oc=5",
-    "source": "techtimes.com",
-    "source_type": "news",
-    "date": "2026-07-15",
-    "heat": 37.7,
-    "summary": "PixVerse Closes $439M Round, Targets AI Game Engines After Sora Exits Market techtimes.com"
-   },
-   {
-    "title": "Show HN: BonzAI – 1-click local AI inference and yield-bearing AI artifacts",
-    "url": "https://www.bonzai.sh/",
-    "source": "Hacker News",
-    "source_type": "community",
-    "date": "2026-03-17",
-    "heat": 23.7,
-    "summary": "Hi everyone, I started building BonzAI two years ago, as an attempt to fully replace my on"
-   }
-  ],
-  "heat_index": 2.2
+  "heat_index": 2.6
  },
  {
   "name": "Meshy",
@@ -2059,7 +2079,7 @@
   "color": "#e0862a",
   "count": 4,
   "recent": 1,
-  "heat": 29.9,
+  "heat": 29.8,
   "momentum": -1.0,
   "series": [
    0,
@@ -2107,7 +2127,7 @@
    ],
    [
     "怎么解读",
-    "**声量明显回落**（-100%）。对产品来说这未必是坏消息：话题性下降往往发生在能力已经被当成默认选项之后，也可能只是这一轮发布的周期结束了。要结合它有没有持续的版本更新来判断，而不是只看讨论量。 最近一次被提到已是 54 天前，热度已过，可以作为背景资料看。"
+    "**声量明显回落**（-100%）。对产品来说这未必是坏消息：话题性下降往往发生在能力已经被当成默认选项之后，也可能只是这一轮发布的周期结束了。要结合它有没有持续的版本更新来判断，而不是只看讨论量。 最近一次被提到已是 55 天前，热度已过，可以作为背景资料看。"
    ]
   ],
   "items": [
@@ -2117,7 +2137,7 @@
     "source": "GitHub",
     "source_type": "repo",
     "date": "2026-04-28",
-    "heat": 53.4,
+    "heat": 53.3,
     "summary": "Unreal Engine plugin for LLM/GenAI models & MCP UE5 server. OpenAI GPT-5, Deepseek R1, Cla"
    },
    {
@@ -2126,7 +2146,7 @@
     "source": "80 Level",
     "source_type": "news",
     "date": "2026-07-21",
-    "heat": 29.9,
+    "heat": 29.8,
     "summary": "Meshy Wants AI to Feel Less Like a Prompt and More Like a Creative Partner 80 Level"
    },
    {
@@ -2135,7 +2155,7 @@
     "source": "hongshan.com",
     "source_type": "news",
     "date": "2026-04-28",
-    "heat": 29.2,
+    "heat": 29.1,
     "summary": "Meshy.AI胡渊鸣与红杉吴茗谈AI原生游戏、世界模型与PMF | the prompt红杉播客 hongshan.com"
    },
    {
@@ -2144,10 +2164,10 @@
     "source": "HackerNoon",
     "source_type": "news",
     "date": "2026-06-05",
-    "heat": 19.8,
+    "heat": 27.8,
     "summary": "What I Learned Shipping 30 AI-Generated Game Assets to Roblox in a 48-Hour Game Jam (Using"
    }
   ],
-  "heat_index": 1.8
+  "heat_index": 1.7
  }
 ]
